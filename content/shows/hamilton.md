@@ -1,0 +1,56 @@
+---
+title: "Hamilton"
+year: 2015
+gallery: new-broadway
+slug: hamilton
+credits: "2015 | Music, Lyrics, and Book by Lin-Manuel Miranda | Inspired by Ron Chernow’s 2004 biography Alexander Hamilton | Originally Directed by Thomas Kail | Choreographed by Andy Blankenbuehler"
+revival: false
+playbillImage: ""
+related:
+  - 1776
+  - in-the-heights
+  - suffs
+---
+
+## Overview
+
+When Hamilton opened at the Richard Rodgers Theatre on August 6, 2015, it transformed the story of an eighteenth-century Founding Father into a musical told through hip-hop, R&B, pop, soul, and traditional Broadway forms, performed by a cast in which actors of color portray many of the most famous white political figures in American history. The musical follows Alexander Hamilton, an immigrant from the Caribbean who arrives in New York ambitious, intellectually restless, and determined to create a legacy. He joins the American Revolution, becomes George Washington's aide-de-camp, marries Eliza Schuyler, helps write The Federalist Papers, becomes the nation's first Secretary of the Treasury, and develops an increasingly bitter rivalry with Aaron Burr. But Hamilton is not simply the story of Hamilton's rise. It is also the story of his inability to stop striving. The same hunger that allows him to escape poverty and enter history contributes to his political conflicts, public humiliation, damage to his marriage, and eventually the duel with Burr that kills him. Songs including “My Shot,” “The Schuyler Sisters,” “Wait for It,” “Yorktown,” “The Room Where It Happens,” “Burn,” and “Who Lives, Who Dies, Who Tells Your Story” turn the founding of the United States into an argument about ambition, memory, political power, and historical narrative.
+
+
+## Its final question is perhaps its most important:
+
+Who gets remembered—and who gets to decide how they are remembered?
+
+
+## Historical Era
+
+Hamilton arrived on Broadway in 2015, but its theatrical roots stretch across several decades of musical-theatre experimentation. 1776 had already demonstrated in 1969 that the Founding Fathers could become characters in a Broadway musical. Rent brought contemporary popular music and a younger generation's concerns into the Broadway mainstream. In the Heights demonstrated Lin-Manuel Miranda's ability to combine hip-hop and Latin music with traditional musical-theatre storytelling. Hamilton brought these developments together. Miranda began developing the project after reading historian Ron Chernow's biography of Alexander Hamilton. What initially became the song “Alexander Hamilton” expanded into a full musical that premiered at the Public Theater in February 2015 before transferring to Broadway. The production became not merely a theatrical success but a cultural phenomenon, reaching audiences far beyond traditional Broadway theatergoers.
+
+
+## Historical & Cultural Context
+
+Alexander Hamilton's actual life offered Miranda unusually dramatic material. Born in the Caribbean and orphaned as a young man, Hamilton reached the North American colonies through the financial support of people impressed by his writing. During the Revolution, he served closely under George Washington before eventually receiving a battlefield command at Yorktown. After independence, he became one of the most important architects of the new federal government. As the first Secretary of the Treasury, Hamilton advocated a strong national financial system, federal assumption of state debts, and a national bank. The musical turns these political conflicts into personal and musical battles. Cabinet debates become rap battles. Jefferson and Hamilton do not simply disagree over financial policy. They compete rhetorically for control of the room. That theatrical choice makes political argument feel immediate rather than distant. Hip-Hop and the Founding Fathers
+
+The most revolutionary element of Hamilton was not simply that it contained rap. It was the way Miranda recognized a structural similarity between hip-hop and Hamilton himself. Hamilton advances through words. He writes constantly, argues relentlessly, attacks opponents in print, produces political essays at extraordinary speed, and believes language can change his position in the world. Rap therefore becomes more than a contemporary musical style imposed upon history. It becomes a dramatic language for a character whose greatest weapon is verbal speed. Different characters also receive different musical vocabularies. Hamilton often raps rapidly because his mind seems unable to slow down. Burr's music is more controlled and measured. Jefferson enters with musical styles that reflect his confidence and theatricality. King George appears in the language of a British-invasion pop song. Musical style becomes characterization. Casting and “America Then, Told by America Now” The original production famously cast Black, Latino, Asian American, and other actors of color as the Founding Fathers and other historical figures who were predominantly white. Miranda described the concept as telling the story of America then through the people of America now. This was not historical realism. It was a deliberate theatrical intervention. The casting allowed performers who historically would have been excluded from political power in eighteenth-century America to embody the people who possessed it. At the same time, this approach created an important tension. The historical Washington, Jefferson, Madison, and Hamilton participated in a society built partly upon slavery and racial exclusion. Some enslaved people themselves; others were connected to slavery in more complicated ways. By casting actors of color as these figures while placing relatively limited emphasis on slavery, the musical opened an ongoing debate about whether it reimagines American history or risks making its inequalities easier to overlook. That debate has become part of Hamilton's historical significance.
+
+
+## Production Innovation
+
+Director Thomas Kail, choreographer Andy Blankenbuehler, scenic designer David Korins, and the creative team created a production that rarely stops moving. The set resembles a combination of wooden scaffolding, ropes, balconies, and a partially constructed eighteenth-century building. That incompleteness is appropriate. The characters are literally attempting to build a country that does not yet fully exist. A central turntable allows performers to move forward and backward through space, sometimes creating the sensation that history itself is rotating around them. Blankenbuehler's ensemble functions almost like a physical historical force. Dancers become soldiers, citizens, objects, memories, and consequences. During the duel sequences, movement can slow dramatically while characters describe events occurring within fractions of a second. Theater therefore gains a power that literal historical reenactment would not possess: time can stop while a character thinks. “The Room Where It Happens” One of the musical's most important political ideas appears in “The Room Where It Happens.” Burr becomes obsessed with the fact that Hamilton, Jefferson, and Madison negotiate a political compromise privately. No one else knows exactly what happened. That uncertainty becomes the point. Political history is often reconstructed from incomplete evidence. Decisions affecting millions may originate in conversations witnessed by only a handful of people. Burr's desire to enter “the room” is therefore about more than political ambition. It is about access. Who gets invited into the spaces where decisions are made? Who remains outside? And who later gets to tell the story of what happened inside?
+
+
+## History, Memory, and Eliza
+
+Although the musical begins with Hamilton, its final perspective belongs largely to Eliza Hamilton. Hamilton spends his life obsessing over his legacy. He writes because he wants control over how history will remember him. Then he dies. Eliza lives for another half-century. She preserves his writings, tells his story, raises money for the Washington Monument, speaks against slavery, and helps establish an orphanage. The musical's final number, “Who Lives, Who Dies, Who Tells Your Story,” therefore changes the meaning of historical greatness. Hamilton believes legacy belongs to the person who achieves extraordinary things. The ending suggests that legacy also belongs to the people who preserve, interpret, and transmit those achievements afterward. History is not simply what happened. History is what survives.
+
+
+## Historical Significance
+
+Hamilton became one of the defining Broadway productions of the twenty-first century. At the 2016 Tony Awards, it received a record-breaking 16 nominations and won 11 awards, including Best Musical, Best Original Score, Best Book, Best Direction, and Best Choreography. It also received the 2016 Pulitzer Prize for Drama. The original principal cast—including Lin-Manuel Miranda, Leslie Odom Jr., Phillipa Soo, Renée Elise Goldsberry, Christopher Jackson, Daveed Diggs, and Jonathan Groff—became closely associated with the musical's cultural impact. The original Broadway cast recording reached audiences who had never seen the production, while the filmed stage version released in 2020 expanded its audience globally. The musical also helped demonstrate the commercial and artistic possibilities of hip-hop within mainstream musical theater. After In the Heights, Hamilton made that transformation impossible for Broadway to ignore.
+
+Rewriting—and Questioning—the American Story Hamilton belongs to a long Broadway tradition of using musical theater to examine America. Show Boat confronted race and social change. Oklahoma! mythologized national expansion. West Side Story examined immigration and urban conflict. Ragtime placed race, immigration, and industrialization alongside one another. 1776 dramatized the nation's founding. Hamilton does something slightly different. It asks whether changing who performs history can change how audiences relate to history. But it also demonstrates the limits of revision. Diversifying the storytellers does not automatically resolve the exclusions within the historical events being portrayed. That tension is one reason the musical remains so useful historically. It does not merely tell us about eighteenth-century America. It reveals what twenty-first-century America wanted to ask about the eighteenth century.
+
+
+## Why It Resonates With Me
+
+What resonates with me most about Hamilton is its obsession with who gets to tell the story. Hamilton believes that if he writes enough, he can control his legacy, but the musical ultimately gives that power to Eliza—and, beyond her, to historians, artists, performers, and audiences who continually reinterpret the past. That idea connects strongly to the way I think about both history and storytelling. I also love how Miranda takes a musical language that might once have seemed incompatible with eighteenth-century political history and uses it to make argument, ambition, and intellectual competition feel immediate. For me, Hamilton demonstrates that preserving history does not mean keeping it frozen. Sometimes the most powerful way to keep the past alive is to give it a new language—and then remain willing to question the story that language creates.

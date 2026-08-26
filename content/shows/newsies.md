@@ -1,0 +1,45 @@
+---
+title: "Newsies"
+year: 2012
+gallery: new-broadway
+slug: newsies
+credits: "2012 | Music by Alan Menken | Lyrics by Jack Feldman | Book by Harvey Fierstein | Based on Disney’s 1992 film Newsies | Inspired by the Newsboys’ Strike of 1899 | Originally Directed by Jeff Calhoun | Choreographed by Christopher Gattelli"
+revival: false
+playbillImage: ""
+related: []
+---
+
+## Overview
+
+When Newsies opened at the Nederlander Theatre on March 29, 2012, it transformed a movie that had originally disappointed at the box office into an unexpectedly successful Broadway musical about young workers discovering that collective action can challenge people far more powerful than themselves. (IBDB) Set in New York City in 1899, the musical follows Jack Kelly, a charismatic teenage newspaper seller who dreams of escaping the city for Santa Fe. Jack and the other “newsies” survive by purchasing newspapers from publishers and reselling them on the streets. When powerful newspaper publishers, led in the musical by Joseph Pulitzer, increase the price the newsboys must pay for their papers, the newsies realize that the change threatens their already precarious livelihoods. Jack initially wants a better life for himself. Gradually, however, his personal frustration becomes a collective cause.
+
+With the help of brothers Davey and Les and young reporter Katherine Plumber, Jack organizes newsies across New York to strike. Songs including “Carrying the Banner,” “The World Will Know,” “Seize the Day,” “Santa Fe,” “King of New York,” and “Once and for All” transform labor organization into exhilarating musical theater. At the center of Newsies is a question that reaches far beyond its young characters: what can people with very little individual power accomplish when they decide to act together?
+
+
+## Historical Era
+
+Newsies is rooted in the Newsboys’ Strike of 1899, a real labor action involving young newspaper sellers in New York City. The Broadway musical fictionalizes many details, but its central conflict is based on historical events. (AEA Public Site) At the end of the nineteenth century, newspapers were one of the dominant forms of mass communication in American cities. Publishers such as Joseph Pulitzer and William Randolph Hearst controlled enormously influential newspaper empires. Newsboys occupied the opposite end of that system. Many were children or teenagers from working-class or immigrant families. They purchased bundles of newspapers and then attempted to sell them individually on city streets. If they failed to sell their papers, they could suffer the financial loss themselves. The musical therefore takes place within the inequalities of Gilded Age and Progressive Era America, when rapid industrial growth produced extraordinary wealth while workers increasingly organized to demand greater economic power.
+
+
+## Historical & Cultural Context
+
+The actual 1899 strike emerged after publishers increased the wholesale price newsboys paid for certain papers. The newsies responded by organizing. That historical context makes the characters particularly interesting because they are not conventional industrial workers. They do not possess factories, political offices, large amounts of money, or established institutional authority. What they possess is their collective labor. The newspaper publishers may own the presses, but newspapers only become valuable if someone gets them into readers’ hands. The musical turns that economic relationship into its central political insight.
+
+Pulitzer initially sees each newsboy as replaceable. Jack realizes that if enough supposedly replaceable people refuse to cooperate, the system stops functioning. Labor, Youth, and Collective Power The most important transformation in Newsies belongs to Jack. At the beginning, his dream is intensely individual: Santa Fe represents escape. He wants to leave poverty, New York, and the responsibilities surrounding him. The strike forces him to imagine a different response. Instead of escaping an unfair system, perhaps he can help change it. That idea gives “Seize the Day” its importance. The newsies recognize that waiting for someone more powerful to solve their problem will accomplish nothing. Yet the musical does not pretend organizing is easy. The newsies disagree. They become frightened. Jack is pressured by Pulitzer. The strike appears capable of collapsing. Collective action requires people to trust one another even when acting alone would appear safer.
+
+
+## Production Innovation
+
+If Newsies is about collective power, Christopher Gattelli’s choreography makes that idea physical. The production became famous for its extraordinarily athletic male ensemble. The newsies leap, spin, tap, tumble, and move across large towers and platforms with remarkable speed. But the dancing is not simply decoration. When one newsie moves alone, he is impressive. When dozens move together, they appear powerful. The choreography therefore turns the musical’s political argument into a visual one: individual bodies become a collective force. The scenic design similarly emphasized movement rather than historical realism. Large metal towers shifted across the stage to create streets, offices, rooftops, and gathering places. New York became a city constantly being reconstructed around the performers.
+
+Gattelli’s work won the 2012 Tony Award for Best Choreography. (Tony Awards) Journalism and Who Controls the Story Newsies is also unusually appropriate as a musical about the history of media. Pulitzer possesses power partly because he controls newspapers. The newsies eventually recognize that winning the strike requires more than refusing to sell his papers. They need to control their own story. Katherine initially acts as the intermediary. As a journalist, she can transform their protest into news and make readers understand why the newsies are striking. Later, the newsies create and distribute their own publication. This adds another dimension to the musical’s argument about power: having a voice matters, but having a way to distribute that voice matters too. In that sense, Newsies connects a nineteenth-century newspaper strike to a much more contemporary question about media—who owns the platforms through which information reaches the public? From Failed Film to Broadway Hit The history of Newsies itself is almost as interesting as the story it tells. Disney released the original film in 1992, and it did not initially become the major success the company had hoped for. Over time, however, the film developed a passionate following. Disney Theatrical eventually developed a stage version largely with future licensing in mind. A pilot production opened at New Jersey’s Paper Mill Playhouse in 2011. Audience response was strong enough that plans changed, and the production transferred to Broadway for what was originally intended to be a limited engagement. (Playbill) Then something unexpected happened. It became a hit. The limited engagement was repeatedly extended and ultimately became an open-ended Broadway run. (Playbill) That journey makes Newsies a fascinating reversal of the usual film-to-stage story: a film that had struggled commercially found a second and much more successful life through live theater.
+
+
+## Historical Significance
+
+The original Broadway production starred Jeremy Jordan as Jack Kelly, with Kara Lindsay as Katherine, Ben Fankhauser as Davey, Andrew Keenan-Bolger as Crutchie, and John Dossett as Pulitzer. (Playbill) Newsies received eight Tony Award nominations, including Best Musical, and won two: Best Original Score for Alan Menken and Jack Feldman and Best Choreography for Christopher Gattelli. (D23) What had been planned as a short Broadway engagement ultimately ran until August 24, 2014, reaching 1,005 performances according to Disney’s closing announcement reported by Playbill. (Playbill) Its life extended well beyond Broadway through touring, regional, school, and amateur productions. A stage performance featuring several original Broadway principals was also filmed and released theatrically in 2017. (D23) The show's trajectory demonstrates something important about twenty-first-century Broadway: adaptation does not necessarily mean simply reproducing a successful film. Sometimes the adaptation becomes more culturally durable than its source.
+
+
+## Why It Resonates With Me
+
+What I find most powerful about Newsies is the connection it makes between voice and collective action. Jack begins by imagining success as escape—if he can get to Santa Fe, he can leave his problems behind. But the strike teaches him that individual ambition and responsibility to a community do not have to be opposites. I also love that journalism becomes part of that struggle: the newsies cannot change their situation until they find a way to make other people understand their story. For me, Newsies captures something essential about both theater and journalism: one voice can attract attention, but when many voices organize around the same story, they can become difficult to ignore.

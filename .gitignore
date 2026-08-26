@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env*
+scripts/pdf-extract.txt
+49. Musical theatre shows
+*.pdf

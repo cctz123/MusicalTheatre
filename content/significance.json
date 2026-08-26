@@ -1,0 +1,1464 @@
+{
+  "entries": [
+    {
+      "id": "beggars-opera-1728",
+      "name": "The Beggar’s Opera",
+      "year": 1728,
+      "era": "Pre-Golden Era//Ballad Opera",
+      "culture": "Satire of class, politics, opera, and corruption in Georgian Britain",
+      "innovation": "Popular tunes repurposed with spoken dialogue; low-tech, actor-centered staging",
+      "significance": "A London ballad opera, not a Broadway musical: spoken scenes and borrowed popular tunes made satire travel without operatic machinery.",
+      "showSlug": ""
+    },
+    {
+      "id": "h-m-s-pinafore-1878",
+      "name": "H.M.S. Pinafore",
+      "year": 1878,
+      "era": "Pre-Golden Era / Operetta Era",
+      "culture": "Victorian class hierarchy, patriotism, naval bureaucracy",
+      "innovation": "Comic operetta orchestration, ensemble precision, scenic spectacle",
+      "significance": "Gilbert and Sullivan’s naval comedy showed how comic operetta could mock class and patriotism with ensemble precision—an English form later imported, not invented, on Broadway.",
+      "showSlug": ""
+    },
+    {
+      "id": "mikado-1885",
+      "name": "The Mikado",
+      "year": 1885,
+      "era": "Pre-Golden Era / Operetta Era",
+      "culture": "Victorian satire filtered through Orientalist fantasy; bureaucracy and social status",
+      "innovation": "Patter-song precision, stylized exotic design, ensemble comic timing",
+      "significance": "Its patter and stylized “Japan” made Orientalist fantasy a commercial operetta language; the work is a British precursor, and a reminder that spectacle can smuggle empire onto a comic stage.",
+      "showSlug": ""
+    },
+    {
+      "id": "wizard-of-oz-1902",
+      "name": "The Wizard of Oz",
+      "year": 1902,
+      "era": "Pre-Golden Era/Vaudeville Era",
+      "culture": "American fantasy, childhood imagination, turn-of-century popular entertainment",
+      "innovation": "Elaborate scenic transformations, stage magic, vaudeville effects",
+      "significance": "Its elaborate transformations demonstrated how turn-of-the-century musical spectacle could use stage machinery itself as part of the attraction.",
+      "showSlug": ""
+    },
+    {
+      "id": "babes-in-toyland-1903",
+      "name": "Babes in Toyland",
+      "year": 1903,
+      "era": "Early Musical Comedy",
+      "culture": "Nursery-rhyme fantasy, childhood nostalgia, holiday spectacle",
+      "innovation": "Large scenic tableaux, toy marches, operetta orchestration",
+      "significance": "Toy-scale tableaux and holiday processions treated childhood nostalgia as a reason to build scenery, not merely to write a score.",
+      "showSlug": ""
+    },
+    {
+      "id": "little-johnny-jones-1904",
+      "name": "Little Johnny Jones",
+      "year": 1904,
+      "era": "Early Musical Comedy",
+      "culture": "American patriotism, Broadway identity, vaudeville showmanship",
+      "innovation": "Fast scene changes, song-and-dance staging, rhythmic speech-song style",
+      "significance": "Cohan’s fast scene changes and speech-song swagger helped make American patriotism sound like vaudeville rather than European operetta.",
+      "showSlug": ""
+    },
+    {
+      "id": "show-boat-1927",
+      "name": "Show Boat",
+      "year": 1927,
+      "era": "Integrated Book Musicals Start (1920s–1930s)",
+      "culture": "Race, miscegenation laws, show business, family across generations",
+      "innovation": "Large riverboat setting, integrated dramatic score, recurring musical motifs",
+      "significance": "Pioneered the serious integrated musical and addressed race and social issues on Broadway.",
+      "showSlug": "show-boat"
+    },
+    {
+      "id": "anything-goes-1934",
+      "name": "Anything Goes",
+      "year": 1934,
+      "era": "Integrated Book Musicals Start (1920s–1930s)",
+      "culture": "Depression-era escapism, celebrity, class satire, transatlantic glamour",
+      "innovation": "Tap spectacle, shipboard sets, star-driven musical comedy staging",
+      "significance": "Cole Porter’s liner comedy used tap and star wattage as Depression-era glamour: the ship moved so the audience would not have to think about the dock.",
+      "showSlug": "anything-goes"
+    },
+    {
+      "id": "oklahoma-1943",
+      "name": "Oklahoma",
+      "year": 1943,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Pioneer optimism, wartime romance, rural Americana",
+      "innovation": "Integrated narrative and dance, first 'book musical'",
+      "significance": "Established the integrated book musical and ushered in Broadway's Golden Age.",
+      "showSlug": "oklahoma"
+    },
+    {
+      "id": "carousel-1945",
+      "name": "Carousel",
+      "year": 1945,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Romance, abuse, redemption",
+      "innovation": "Extended ballet, operatic scope",
+      "significance": "Its extended ballet, operatic scope staged romance, abuse, redemption as something an audience could watch, not only hear.",
+      "showSlug": "carousel"
+    },
+    {
+      "id": "south-pacific-1949",
+      "name": "South Pacific",
+      "year": 1949,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "WWII era racism and patriotism, military love story",
+      "innovation": "Scale of naval scenes, mix of realism and romance in staging",
+      "significance": "Its scale of naval scenes, mix of realism and romance in staging staged wWII era racism and patriotism, military love story as something an audience could watch, not only hear.",
+      "showSlug": "south-pacific"
+    },
+    {
+      "id": "guys-and-dolls-1950",
+      "name": "Guys and Dolls",
+      "year": 1950,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Postwar urban Americana, gambling culture, romance, morality",
+      "innovation": "Highly integrated dance scenes, stylized Times Square design, character-driven orchestration",
+      "significance": "Its highly integrated dance scenes, stylized Times Square design, character-driven orchestration staged postwar urban Americana, gambling culture, romance, morality as something an audience could watch, not only hear.",
+      "showSlug": "guys-and-dolls"
+    },
+    {
+      "id": "american-in-paris-film-1951",
+      "name": "An American in Paris (Film)",
+      "year": 1951,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Postwar Paris, American expatriates, art and romantic idealism",
+      "innovation": "Technicolor cinematography, extended ballet, painterly production design",
+      "significance": "Its technicolor cinematography, extended ballet, painterly production design staged postwar Paris, American expatriates, art and romantic idealism as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "king-and-i-1951",
+      "name": "The King and I",
+      "year": 1951,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Colonialism, cultural tension",
+      "innovation": "Orchestral epic, exoticism",
+      "significance": "Its orchestral epic, exoticism staged colonialism, cultural tension as something an audience could watch, not only hear.",
+      "showSlug": "the-king-and-i"
+    },
+    {
+      "id": "peter-pan-1954",
+      "name": "Peter Pan",
+      "year": 1954,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Childhood, imagination, gendered performance traditions, fear of adulthood",
+      "innovation": "Wire-flying systems, fantasy scenic effects, live television adaptation",
+      "significance": "Its wire-flying systems, fantasy scenic effects, live television adaptation staged childhood, imagination, gendered performance traditions, fear of adulthood as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "my-fair-lady-1956",
+      "name": "My Fair Lady",
+      "year": 1956,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Classism, transformation",
+      "innovation": "London set realism",
+      "significance": "Its london set realism staged classism, transformation as something an audience could watch, not only hear.",
+      "showSlug": "my-fair-lady"
+    },
+    {
+      "id": "cinderella-film-1957",
+      "name": "Cinderella (Film)",
+      "year": 1957,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Mass-media family entertainment, romantic fairytale ideals, television culture",
+      "innovation": "Live television broadcast, studio scenic changes, camera-directed musical staging",
+      "significance": "Its live television broadcast, studio scenic changes, camera-directed musical staging staged mass-media family entertainment, romantic fairytale ideals, television culture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "music-man-1957",
+      "name": "The Music Man",
+      "year": 1957,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Small-town America, con artistry",
+      "innovation": "Marching band sequences",
+      "significance": "Its marching band sequences staged small-town America, con artistry as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "west-side-story-1957",
+      "name": "West Side Story",
+      "year": 1957,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Cold War urbanism, youth gangs, immigration tension",
+      "innovation": "Static sets, spotlighting, cinematic choreography",
+      "significance": "Revolutionized musical storytelling through integrated dance, music, and social realism.",
+      "showSlug": "west-side-story"
+    },
+    {
+      "id": "gypsy-1959",
+      "name": "Gypsy",
+      "year": 1959,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Show business ambition, motherhood, vaudeville decline, female self-invention",
+      "innovation": "Backstage transitions, vaudeville pastiche, psychologically driven eleven-o'clock staging",
+      "significance": "Its backstage transitions, vaudeville pastiche, psychologically driven eleven-o'clock staging staged show business ambition, motherhood, vaudeville decline, female self-invention as something an audience could watch, not only hear.",
+      "showSlug": "gypsy"
+    },
+    {
+      "id": "once-upon-mattress-1959",
+      "name": "Once Upon a Mattress",
+      "year": 1959,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Goofy, rebellious, feminist-leaning-farcical in style but subversive for its time",
+      "innovation": "Physical comedy, exaggerated medieval design, rapid musical-comedy pacing",
+      "significance": "Its physical comedy, exaggerated medieval design, rapid musical-comedy pacing staged goofy, rebellious, feminist-leaning-farcical in style but subversive for its time as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "sound-of-music-1959",
+      "name": "The Sound of Music",
+      "year": 1959,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Nazism, faith, family",
+      "innovation": "Alpine projections",
+      "significance": "Its alpine projections staged nazism, faith, family as something an audience could watch, not only hear.",
+      "showSlug": "the-sound-of-music"
+    },
+    {
+      "id": "funny-girl-1964",
+      "name": "Funny Girl",
+      "year": 1964,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Rise of a performer, individuality",
+      "innovation": "Star-vehicle staging, iconic solos",
+      "significance": "Its star-vehicle staging, iconic solos staged rise of a performer, individuality as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "hello-dolly-1964",
+      "name": "Hello Dolly",
+      "year": 1964,
+      "era": "Golden Age Proper (1940s–1960s)",
+      "culture": "Golden Age optimism, matchmaking",
+      "innovation": "Grand staircase, period costumes",
+      "significance": "Its grand staircase, period costumes staged golden Age optimism, matchmaking as something an audience could watch, not only hear.",
+      "showSlug": "hello-dolly"
+    },
+    {
+      "id": "cabaret-1966",
+      "name": "Cabaret",
+      "year": 1966,
+      "era": "Concept Musical",
+      "culture": "Pre-WWII Berlin, political decay\"",
+      "innovation": "Emcee framing, immersive style",
+      "significance": "Its emcee framing, immersive style staged pre-WWII Berlin, political decay\" as something an audience could watch, not only hear.",
+      "showSlug": "cabaret"
+    },
+    {
+      "id": "hair-1967",
+      "name": "Hair",
+      "year": 1967,
+      "era": "Counterculture Rock Musical",
+      "culture": "Anti-war protest, sexual freedom, hippie revolution",
+      "innovation": "Audience interaction, onstage band, lighting chaos",
+      "significance": "Its audience interaction, onstage band, lighting chaos staged anti-war protest, sexual freedom, hippie revolution as something an audience could watch, not only hear.",
+      "showSlug": "hair"
+    },
+    {
+      "id": "company-1970",
+      "name": "Company",
+      "year": 1970,
+      "era": "Concept Musical",
+      "culture": "Urban loneliness, marriage, modern adulthood, New York alienation",
+      "innovation": "Nonlinear vignette structure, modular scenic design, ensemble-as-concept staging",
+      "significance": "Defined the concept musical and transformed psychological storytelling on Broadway.",
+      "showSlug": "company"
+    },
+    {
+      "id": "jesus-christ-superstar-1970",
+      "name": "Jesus Christ Superstar",
+      "year": 1970,
+      "era": "Rock Opera",
+      "culture": "Religious reinterpretation, counterculture lens on Christ story",
+      "innovation": "Rock score, stadium-style performance aesthetics",
+      "significance": "Its rock score, stadium-style performance aesthetics staged religious reinterpretation, counterculture lens on Christ story as something an audience could watch, not only hear.",
+      "showSlug": "jesus-christ-superstar"
+    },
+    {
+      "id": "follies-1971",
+      "name": "Follies",
+      "year": 1971,
+      "era": "Concept Musical",
+      "culture": "Aging performers confronting past dreams, fading glamor, and regret during a theater reunion",
+      "innovation": "Ghost doubles, overlapping time periods onstage, vaudeville-style pastiche numbers",
+      "significance": "Its ghost doubles, overlapping time periods onstage, vaudeville-style pastiche numbers staged aging performers confronting past dreams, fading glamor, and regret during a theater reunion as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "grease-1972",
+      "name": "Grease",
+      "year": 1972,
+      "era": "Rock ’n’ Roll Nostalgia Musical Era",
+      "culture": "1950s teen culture, peer pressure, sexuality, nostalgia and conformity",
+      "innovation": "Rock-and-roll band sound, dance-hall staging, retro visual vocabulary",
+      "significance": "Its rock-and-roll band sound, dance-hall staging, retro visual vocabulary staged 1950s teen culture, peer pressure, sexuality, nostalgia and conformity as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "rocky-horror-show-1973",
+      "name": "The Rocky Horror Show",
+      "year": 1973,
+      "era": "Glam Rock & Cult Subversion Era",
+      "culture": "Queer camp, sexual liberation, sci-fi parody, counterculture",
+      "innovation": "Glam-rock concert aesthetic, audience participation, low-fi B-movie effects",
+      "significance": "Its glam-rock concert aesthetic, audience participation, low-fi B-movie effects staged queer camp, sexual liberation, sci-fi parody, counterculture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "chorus-line-1975",
+      "name": "A Chorus Line",
+      "year": 1975,
+      "era": "Concept Musical",
+      "culture": "Post-Vietnam disillusionment, identity and artistic struggle",
+      "innovation": "Ensemble-driven format, minimal set with mirrors",
+      "significance": "Popularized autobiographical ensemble storytelling and the modern backstage musical.",
+      "showSlug": "a-chorus-line"
+    },
+    {
+      "id": "chicago-1975",
+      "name": "Chicago",
+      "year": 1975,
+      "era": "Concept Musical",
+      "culture": "Celebrity crime, media sensationalism, justice as spectacle",
+      "innovation": "Vaudeville framing, Fosse choreography, presentational staging",
+      "significance": "Its vaudeville framing, Fosse choreography, presentational staging staged celebrity crime, media sensationalism, justice as spectacle as something an audience could watch, not only hear.",
+      "showSlug": "chicago"
+    },
+    {
+      "id": "evita-1978",
+      "name": "Evita",
+      "year": 1978,
+      "era": "Mega Musical",
+      "culture": "Argentinian politics, female power",
+      "innovation": "Narrator device, crowd staging",
+      "significance": "Its narrator device, crowd staging staged argentinian politics, female power as something an audience could watch, not only hear.",
+      "showSlug": "evita"
+    },
+    {
+      "id": "sweeney-todd-1979",
+      "name": "Sweeney Todd",
+      "year": 1979,
+      "era": "Concept Musical",
+      "culture": "Revenge, Victorian horror",
+      "innovation": "Blood effects, dark operatic tone",
+      "significance": "Its blood effects, dark operatic tone staged revenge, Victorian horror as something an audience could watch, not only hear.",
+      "showSlug": "sweeney-todd"
+    },
+    {
+      "id": "42nd-street-1980",
+      "name": "42nd Street",
+      "year": 1980,
+      "era": "Mega Musical",
+      "culture": "Showbiz dreams, backstage story",
+      "innovation": "Tap-heavy choreography, big finale",
+      "significance": "Its tap-heavy choreography, big finale staged showbiz dreams, backstage story as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "cats-1981",
+      "name": "Cats",
+      "year": 1981,
+      "era": "Mega Musical",
+      "culture": "T.S. Eliot poetry, afterlife themes",
+      "innovation": "Fur costumes, junkyard set",
+      "significance": "Helped launch the global mega-musical era.",
+      "showSlug": "cats"
+    },
+    {
+      "id": "dreamgirls-1981",
+      "name": "Dreamgirls",
+      "year": 1981,
+      "era": "Post Golden Age",
+      "culture": "Black stardom, Motown era",
+      "innovation": "Revue-style transitions, concert lighting",
+      "significance": "Its revue-style transitions, concert lighting staged black stardom, Motown era as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "little-shop-of-horrors-1982",
+      "name": "Little Shop of Horrors",
+      "year": 1982,
+      "era": "Off-Broadway Cult",
+      "culture": "Sci-fi horror, greed, camp",
+      "innovation": "Puppetry, retro aesthetic",
+      "significance": "Its puppetry, retro aesthetic staged sci-fi horror, greed, camp as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "les-miserables-1985",
+      "name": "Les Miserables",
+      "year": 1985,
+      "era": "Mega Musical",
+      "culture": "French Revolution, justice, redemption",
+      "innovation": "Turntable stage",
+      "significance": "Popularized the epic sung-through mega-musical.",
+      "showSlug": "les-miserables"
+    },
+    {
+      "id": "phantom-of-opera-1986",
+      "name": "Phantom of the Opera",
+      "year": 1986,
+      "era": "Mega Musical",
+      "culture": "Obsession, beauty, deformity",
+      "innovation": "Chandelier crash, operatic scale",
+      "significance": "Its chandelier crash, operatic scale staged obsession, beauty, deformity as something an audience could watch, not only hear.",
+      "showSlug": "the-phantom-of-the-opera"
+    },
+    {
+      "id": "into-woods-1987",
+      "name": "Into the Woods",
+      "year": 1987,
+      "era": "Concept Musical",
+      "culture": "Fairytale deconstruction, consequences",
+      "innovation": "Storybook design, ensemble layering",
+      "significance": "Its storybook design, ensemble layering staged fairytale deconstruction, consequences as something an audience could watch, not only hear.",
+      "showSlug": "into-the-woods"
+    },
+    {
+      "id": "miss-saigon-1989",
+      "name": "Miss Saigon",
+      "year": 1989,
+      "era": "Mega Musical",
+      "culture": "Vietnam War, Western guilt, East-West cultural tension",
+      "innovation": "Onstage helicopter, massive moving sets, operatic scale",
+      "significance": "Its onstage helicopter, massive moving sets, operatic scale staged vietnam War, Western guilt, East-West cultural tension as something an audience could watch, not only hear.",
+      "showSlug": "miss-saigon"
+    },
+    {
+      "id": "beauty-and-beast-1994",
+      "name": "Beauty and the Beast",
+      "year": 1994,
+      "era": "Disney Era",
+      "culture": "Transformation, inner beauty",
+      "innovation": "Morphing costumes, enchanted castle",
+      "significance": "Its morphing costumes, enchanted castle staged transformation, inner beauty as something an audience could watch, not only hear.",
+      "showSlug": "beauty-and-the-beast"
+    },
+    {
+      "id": "chicago-revival-1996",
+      "name": "Chicago (Revival)",
+      "year": 1996,
+      "era": "Revival Era",
+      "culture": "Jazz-age crime, media sensationalism",
+      "innovation": "Onstage orchestra, minimalist set",
+      "significance": "Illustrates how revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": "chicago-1996"
+    },
+    {
+      "id": "once-upon-mattress-revival-1996",
+      "name": "Once Upon a Mattress (Revival)",
+      "year": 1996,
+      "era": "Classic Revival",
+      "culture": "Fairytale parody, feminist spin",
+      "innovation": "Vaudeville staging",
+      "significance": "Illustrates how classic revival reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "rent-1996",
+      "name": "Rent",
+      "year": 1996,
+      "era": "Gen X Rock Musical",
+      "culture": "AIDS crisis, Gen X counterculture, Bohemia in NYC",
+      "innovation": "Rock band orchestration, handheld mics, minimalist staging",
+      "significance": "Brought contemporary rock and LGBTQ+ stories into the Broadway mainstream.",
+      "showSlug": "rent"
+    },
+    {
+      "id": "lion-king-1997",
+      "name": "The Lion King",
+      "year": 1997,
+      "era": "Disney Era",
+      "culture": "African visual heritage, Disney Renaissance, global theatre expansion",
+      "innovation": "Puppet choreography, shadow play, multicultural design fusion",
+      "significance": "Expanded Broadway's artistic vocabulary through puppetry and visual design.",
+      "showSlug": "the-lion-king"
+    },
+    {
+      "id": "titanic-1997",
+      "name": "Titanic",
+      "year": 1997,
+      "era": "Mega Musical",
+      "culture": "Class division, human tragedy",
+      "innovation": "Ship tilting set, immersive sound",
+      "significance": "Its ship tilting set, immersive sound staged class division, human tragedy as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "mamma-mia-1999",
+      "name": "Mamma Mia",
+      "year": 1999,
+      "era": "Jukebox Musical",
+      "culture": "Family secrets, ABBA nostalgia",
+      "innovation": "Jukebox integration, island setting",
+      "significance": "Its jukebox integration, island setting staged family secrets, ABBA nostalgia as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "seussical-2000",
+      "name": "Seussical",
+      "year": 2000,
+      "era": "Turn-of-the-Century Family / Literary Adaptation Era",
+      "culture": "Imagination, empathy, individuality, childhood outsider identity",
+      "innovation": "Storybook transformations, ensemble doubling, colorful modular scenic design",
+      "significance": "Its storybook transformations, ensemble doubling, colorful modular scenic design staged imagination, empathy, individuality, childhood outsider identity as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "hairspray-2002",
+      "name": "Hairspray",
+      "year": 2002,
+      "era": "Postmodern Era",
+      "culture": "Civil rights, segregation, body image, teen media culture",
+      "innovation": "1960s TV-studio staging, high-energy dance, retro broadcast aesthetics",
+      "significance": "Its 1960s TV-studio staging, high-energy dance, retro broadcast aesthetics staged civil rights, segregation, body image, teen media culture as something an audience could watch, not only hear.",
+      "showSlug": "hairspray"
+    },
+    {
+      "id": "avenue-q-2003",
+      "name": "Avenue Q",
+      "year": 2003,
+      "era": "Postmodern Era",
+      "culture": "Millennial confusion, puppetry satire",
+      "innovation": "Hand puppets + adult themes",
+      "significance": "Its hand puppets + adult themes staged millennial confusion, puppetry satire as something an audience could watch, not only hear.",
+      "showSlug": "avenue-q"
+    },
+    {
+      "id": "wicked-2003",
+      "name": "Wicked",
+      "year": 2003,
+      "era": "Blockbuster Broadway",
+      "culture": "Female friendship, otherness",
+      "innovation": "Flying scenes, time-bending visuals",
+      "significance": "Its flying scenes, time-bending visuals staged female friendship, otherness as something an audience could watch, not only hear.",
+      "showSlug": "wicked"
+    },
+    {
+      "id": "billy-elliot-2005",
+      "name": "Billy Elliot",
+      "year": 2005,
+      "era": "Contemporary British Social Realism Era",
+      "culture": "1984–85 miners’ strike, class, masculinity, arts education",
+      "innovation": "Ballet integrated with protest choreography, moving industrial scenery",
+      "significance": "Its ballet integrated with protest choreography, moving industrial scenery staged 1984–85 miners’ strike, class, masculinity, arts education as something an audience could watch, not only hear.",
+      "showSlug": "billy-elliot"
+    },
+    {
+      "id": "jersey-boys-2005",
+      "name": "Jersey Boys",
+      "year": 2005,
+      "era": "Jukebox Musical",
+      "culture": "Frankie Valli bio-musical",
+      "innovation": "Docu-style staging",
+      "significance": "Its docu-style staging staged frankie Valli bio-musical as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "25th-annual-putnam-county-spelling-bee-2005",
+      "name": "The 25th Annual Putnam County Spelling Bee",
+      "year": 2005,
+      "era": "Intimate Character-Driven Comedy Era",
+      "culture": "Achievement pressure, adolescence, family expectations, outsider identity",
+      "innovation": "Audience participation, improvisation, minimal gymnasium set",
+      "significance": "Its audience participation, improvisation, minimal gymnasium set staged achievement pressure, adolescence, family expectations, outsider identity as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "spring-awakening-2006",
+      "name": "Spring Awakening",
+      "year": 2006,
+      "era": "Postmodern Rock Revival",
+      "culture": "Teen rebellion, sexual repression, and generational trauma in 1890s Germany",
+      "innovation": "Alt-rock score, handheld microphones, minimal set with expressive lighting",
+      "significance": "Its alt-rock score, handheld microphones, minimal set with expressive lighting staged teen rebellion, sexual repression, and generational trauma in 1890s Germany as something an audience could watch, not only hear.",
+      "showSlug": "spring-awakening"
+    },
+    {
+      "id": "legally-blonde-2007",
+      "name": "Legally Blonde",
+      "year": 2007,
+      "era": "Millennial Pop-Feminist / Film-to-Stage Era",
+      "culture": "Female ambition, stereotypes, professional identity, early-2000s pop culture",
+      "innovation": "MTV-influenced pacing, athletic choreography, rapid scenic transitions",
+      "significance": "Its mTV-influenced pacing, athletic choreography, rapid scenic transitions staged female ambition, stereotypes, professional identity, early-2000s pop culture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "in-heights-2008",
+      "name": "In the Heights",
+      "year": 2008,
+      "era": "Hip-Hop Integration Era",
+      "culture": "Latinx immigrant identity, gentrification, and community pride in Washington Heights",
+      "innovation": "Rap and salsa integration, bilingual lyrics, graffiti-style visuals and choreo",
+      "significance": "Its rap and salsa integration, bilingual lyrics, graffiti-style visuals and choreo staged latinx immigrant identity, gentrification, and community pride in Washington Heights as something an audience could watch, not only hear.",
+      "showSlug": "in-the-heights"
+    },
+    {
+      "id": "shrek-2008",
+      "name": "Shrek the Musical",
+      "year": 2008,
+      "era": "Postmodern Era",
+      "culture": "Fairytale parody, body image, outsider identity, acceptance",
+      "innovation": "Prosthetic transformations, puppetry, large-scale fantasy scenery",
+      "significance": "Its prosthetic transformations, puppetry, large-scale fantasy scenery staged fairytale parody, body image, outsider identity, acceptance as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "little-mermaid-2008",
+      "name": "The Little Mermaid",
+      "year": 2008,
+      "era": "Disney Era",
+      "culture": "Freedom, transformation, Disney magic",
+      "innovation": "Heelys for swimming, bubble effects",
+      "significance": "Its heelys for swimming, bubble effects staged freedom, transformation, Disney magic as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "next-to-normal-2009",
+      "name": "Next to Normal",
+      "year": 2009,
+      "era": "Postmodern Era/Rock Musical",
+      "culture": "Mental illness, grief, family systems, psychiatric treatment",
+      "innovation": "Rock chamber score, exposed band, lighting-driven psychological transitions",
+      "significance": "Its rock chamber score, exposed band, lighting-driven psychological transitions staged mental illness, grief, family systems, psychiatric treatment as something an audience could watch, not only hear.",
+      "showSlug": "next-to-normal"
+    },
+    {
+      "id": "rock-of-ages-2009",
+      "name": "Rock of Ages",
+      "year": 2009,
+      "era": "Jukebox Musical",
+      "culture": "1980s rock scene, glam rebellion",
+      "innovation": "Onstage band, concert light rig",
+      "significance": "Its onstage band, concert light rig staged 1980s rock scene, glam rebellion as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "spiderman-turn-off-dark-2011",
+      "name": "Spiderman:Turn off the Dark",
+      "year": 2011,
+      "era": "Tech-Driven Era",
+      "culture": "Superhero musical experiment",
+      "innovation": "Flying rigs, rock concert effects",
+      "significance": "Its flying rigs, rock concert effects staged superhero musical experiment as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "book-of-mormon-2011",
+      "name": "The Book of Mormon",
+      "year": 2011,
+      "era": "Postmodern Era",
+      "culture": "Religion, satire, white savior trope",
+      "innovation": "Parody-styled musical pastiches",
+      "significance": "Its parody-styled musical pastiches staged religion, satire, white savior trope as something an audience could watch, not only hear.",
+      "showSlug": "the-book-of-mormon"
+    },
+    {
+      "id": "newsies-2012",
+      "name": "Newsies",
+      "year": 2012,
+      "era": "Disney Era",
+      "culture": "Labor rights, youth activism, Disneyfication of history",
+      "innovation": "Athletic choreography, scaffolded sets, live-feed print visuals",
+      "significance": "Its athletic choreography, scaffolded sets, live-feed print visuals staged labor rights, youth activism, Disneyfication of history as something an audience could watch, not only hear.",
+      "showSlug": "newsies"
+    },
+    {
+      "id": "cinderella-revival-2013",
+      "name": "Cinderella (Revival)",
+      "year": 2013,
+      "era": "Classic Revival",
+      "culture": "Fairytale revival, social justice rewrite",
+      "innovation": "Magical costume transformations",
+      "significance": "Illustrates how classic revival reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "kinky-boots-2013",
+      "name": "Kinky Boots",
+      "year": 2013,
+      "era": "Contemporary",
+      "culture": "Acceptance, drag, working class unity",
+      "innovation": "Runway finale, glam rock design",
+      "significance": "Its runway finale, glam rock design staged acceptance, drag, working class unity as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "matilda-2013",
+      "name": "Matilda",
+      "year": 2013,
+      "era": "British Import",
+      "culture": "Child genius, authoritarian school",
+      "innovation": "Chalkboard animations, acrobatic staging",
+      "significance": "Its chalkboard animations, acrobatic staging staged child genius, authoritarian school as something an audience could watch, not only hear.",
+      "showSlug": "matilda"
+    },
+    {
+      "id": "murder-ballad-2013",
+      "name": "Murder Ballad",
+      "year": 2013,
+      "era": "Postmodern Rock Opera",
+      "culture": "Rock noir, relationship thriller",
+      "innovation": "Bar-stage hybrid, in-your-face vocals",
+      "significance": "Its bar-stage hybrid, in-your-face vocals staged rock noir, relationship thriller as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "beautiful-carole-king-musical-2014",
+      "name": "Beautiful:The Carole King Musical",
+      "year": 2014,
+      "era": "Postmodern Era/Jukebox Musical",
+      "culture": "Singer-songwriter journey",
+      "innovation": "Live piano performance",
+      "significance": "Its live piano performance staged singer-songwriter journey as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "heathers-2014",
+      "name": "Heathers",
+      "year": 2014,
+      "era": "Postmodern",
+      "culture": "Teen hierarchy, bullying, violence, alienation, dark satire",
+      "innovation": "Pop-rock concert energy, stylized color coding, fast cinematic transitions",
+      "significance": "Its pop-rock concert energy, stylized color coding, fast cinematic transitions staged teen hierarchy, bullying, violence, alienation, dark satire as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "american-in-paris-revival-2015",
+      "name": "An American in Paris (Revival)",
+      "year": 2015,
+      "era": "Ballet Revival",
+      "culture": "Post-WWII healing, ballet-romance",
+      "innovation": "Ballet integration, moving projections",
+      "significance": "Illustrates how ballet revival reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "hamilton-2015",
+      "name": "Hamilton",
+      "year": 2015,
+      "era": "Cultural Phenomenon",
+      "culture": "Obama-era progressivism, immigrant narratives, hip-hop resurgence",
+      "innovation": "Turntable stage, DMX lighting, mic choreography integration",
+      "significance": "Reimagined the American historical musical through hip-hop and color-conscious casting.",
+      "showSlug": "hamilton"
+    },
+    {
+      "id": "school-of-rock-2015",
+      "name": "School of Rock",
+      "year": 2015,
+      "era": "Kid-powered Musical",
+      "culture": "Education, music as liberation",
+      "innovation": "Kid actors play live instruments",
+      "significance": "Its kid actors play live instruments staged education, music as liberation as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "king-and-i-revival-2015",
+      "name": "The King and I (Revival)",
+      "year": 2015,
+      "era": "Prestige Golden Age Revival / Cultural Reexamination",
+      "culture": "Colonialism, modernization, gender, cross-cultural power",
+      "innovation": "Lush orchestration, expansive palace staging, culturally attentive design",
+      "significance": "Illustrates how prestige golden age revival / cultural reexamination reinterprets a classic for contemporary audiences.",
+      "showSlug": "the-king-and-i"
+    },
+    {
+      "id": "dear-evan-hansen-2016",
+      "name": "Dear Evan Hansen",
+      "year": 2016,
+      "era": "Contemporary",
+      "culture": "Mental health awareness, social media, teen anxiety",
+      "innovation": "LED screens, live social media feeds, ambient sound design",
+      "significance": "Its lED screens, live social media feeds, ambient sound design staged mental health awareness, social media, teen anxiety as something an audience could watch, not only hear.",
+      "showSlug": "dear-evan-hansen"
+    },
+    {
+      "id": "waitress-2016",
+      "name": "Waitress",
+      "year": 2016,
+      "era": "Contemporary",
+      "culture": "Motherhood, domestic resilience",
+      "innovation": "Pie scents, live band",
+      "significance": "Its pie scents, live band staged motherhood, domestic resilience as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "anastasia-revival-2017",
+      "name": "Anastasia (Revival)",
+      "year": 2017,
+      "era": "Fantasy History Revival",
+      "culture": "Historical fantasy, Russian royalty myth",
+      "innovation": "Projection design, cinematic transitions",
+      "significance": "Illustrates how fantasy history revival reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "charlie-and-chocolate-factory-2017",
+      "name": "Charlie & the Chocolate Factory",
+      "year": 2017,
+      "era": "British Import",
+      "culture": "Capitalism satire, childlike wonder",
+      "innovation": "Puppet Oompa-Loompas, flying glass elevator",
+      "significance": "Its puppet Oompa-Loompas, flying glass elevator staged capitalism satire, childlike wonder as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "come-from-away-2017",
+      "name": "Come From Away",
+      "year": 2017,
+      "era": "Folk Ensemble",
+      "culture": "Post-9/11 kindness, community resilience",
+      "innovation": "Minimalist set, ensemble storytelling",
+      "significance": "Its minimalist set, ensemble storytelling staged post-9/11 kindness, community resilience as something an audience could watch, not only hear.",
+      "showSlug": "come-from-away"
+    },
+    {
+      "id": "hello-dolly-revival-2017",
+      "name": "Hello, Dolly (Revival)",
+      "year": 2017,
+      "era": "Prestige Golden Age Revival Era",
+      "culture": "Nostalgia, aging, reinvention, classic Broadway star culture",
+      "innovation": "Lavish period sets, full orchestra, grand staircase and ensemble spectacle",
+      "significance": "Illustrates how prestige golden age revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": "hello-dolly"
+    },
+    {
+      "id": "once-on-this-island-revival-2017",
+      "name": "Once on this Island (Revival)",
+      "year": 2017,
+      "era": "Revival Era",
+      "culture": "Caribbean storytelling, postcolonial themes, community resilience",
+      "innovation": "Environmental staging, live percussion, circular audience integration",
+      "significance": "Illustrates how revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "six-2017",
+      "name": "Six",
+      "year": 2017,
+      "era": "Concert Theatre",
+      "culture": "Feminist revival, pop concert aesthetics, Gen Z historical reclaims",
+      "innovation": "Concert lighting, immersive sound, minimalist concert staging",
+      "significance": "Its concert lighting, immersive sound, minimalist concert staging staged feminist revival, pop concert aesthetics, Gen Z historical reclaims as something an audience could watch, not only hear.",
+      "showSlug": "six"
+    },
+    {
+      "id": "spongebob-squarepants-2017",
+      "name": "SpongeBob SquarePants",
+      "year": 2017,
+      "era": "Cartoon Adaptation",
+      "culture": "Childlike optimism, community in crisis",
+      "innovation": "Physical clowning, surreal sound design",
+      "significance": "Its physical clowning, surreal sound design staged childlike optimism, community in crisis as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "carousel-revival-2018",
+      "name": "Carousel (Revival)",
+      "year": 2018,
+      "era": "Golden Age Revival / Modern Emotional Realism",
+      "culture": "Domestic violence, masculinity, redemption, inherited trauma",
+      "innovation": "Ballet-forward choreography, full orchestration, psychologically focused staging",
+      "significance": "Illustrates how golden age revival / modern emotional realism reinterprets a classic for contemporary audiences.",
+      "showSlug": "carousel"
+    },
+    {
+      "id": "frozen-2018",
+      "name": "Frozen",
+      "year": 2018,
+      "era": "Disney Era",
+      "culture": "Sisterhood and self-empowerment",
+      "innovation": "Stage ice effects, quick-change costumes",
+      "significance": "Its stage ice effects, quick-change costumes staged sisterhood and self-empowerment as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "harry-potter-and-cursed-child-2018",
+      "name": "Harry Potter and the Cursed Child",
+      "year": 2018,
+      "era": "Fantasy Adaptation",
+      "culture": "Legacy, family trauma, magical realism",
+      "innovation": "Illusion-based magic, dynamic lighting",
+      "significance": "Its illusion-based magic, dynamic lighting staged legacy, family trauma, magical realism as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "mean-girls-2018",
+      "name": "Mean Girls",
+      "year": 2018,
+      "era": "Teen Broadway",
+      "culture": "High school cliques, teen power",
+      "innovation": "LED transitions, digital backdrops",
+      "significance": "Its lED transitions, digital backdrops staged high school cliques, teen power as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "pretty-woman-2018",
+      "name": "Pretty Woman",
+      "year": 2018,
+      "era": "Film Adaptation",
+      "culture": "Rom-com luxury, class mobility",
+      "innovation": "Stylized hotel and fashion scenes",
+      "significance": "Its stylized hotel and fashion scenes staged rom-com luxury, class mobility as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "cher-show-2018",
+      "name": "The Cher Show",
+      "year": 2018,
+      "era": "Jukebox Musical",
+      "culture": "Pop icon biography",
+      "innovation": "Multiple Chers",
+      "significance": "Its multiple Chers staged pop icon biography as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "prom-2018",
+      "name": "The Prom",
+      "year": 2018,
+      "era": "Contemporary",
+      "culture": "LGBTQ+ rights, allyship",
+      "innovation": "Social media projections",
+      "significance": "Its social media projections staged lGBTQ+ rights, allyship as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "be-more-chill-2019",
+      "name": "Be More Chill",
+      "year": 2019,
+      "era": "Digital-Native / Internet-Fueled Teen Musical Era",
+      "culture": "Teen anxiety, popularity, technology and identity control",
+      "innovation": "Synth-heavy score, digital sci-fi design, fandom-driven online afterlife",
+      "significance": "Its synth-heavy score, digital sci-fi design, fandom-driven online afterlife staged teen anxiety, popularity, technology and identity control as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "beetle-juice-2019",
+      "name": "Beetle Juice",
+      "year": 2019,
+      "era": "TikTok Era",
+      "culture": "Internet fandom, TikTok virality, goth aesthetics",
+      "innovation": "Projection mapping, LED illusion sets, social media-driven design",
+      "significance": "Its projection mapping, LED illusion sets, social media-driven design staged internet fandom, TikTok virality, goth aesthetics as something an audience could watch, not only hear.",
+      "showSlug": "beetlejuice"
+    },
+    {
+      "id": "jagged-little-pill-2019",
+      "name": "Jagged Little Pill",
+      "year": 2019,
+      "era": "Jukebox Musical",
+      "culture": "Opioid crisis, identity",
+      "innovation": "Alanis music drama staging",
+      "significance": "Its alanis music drama staging staged opioid crisis, identity as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "moulin-rouge-2019",
+      "name": "Moulin Rouge",
+      "year": 2019,
+      "era": "Jukebox Spectacle",
+      "culture": "Romance, spectacle, pop mashup",
+      "innovation": "Massive LED sets, moving towers",
+      "significance": "Its massive LED sets, moving towers staged romance, spectacle, pop mashup as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "lightning-thief-2019",
+      "name": "The Lightning Thief",
+      "year": 2019,
+      "era": "YA Fantasy / Fan-Driven Rock Musical Era",
+      "culture": "Neurodivergence, teen identity, mythology, family conflict",
+      "innovation": "DIY theatrical effects, rock score, imaginative low-tech monsters and props",
+      "significance": "Its dIY theatrical effects, rock score, imaginative low-tech monsters and props staged neurodivergence, teen identity, mythology, family conflict as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "tina-turner-musical-2019",
+      "name": "The Tina Turner Musical",
+      "year": 2019,
+      "era": "Jukebox Musical",
+      "culture": "Survival, domestic abuse, music",
+      "innovation": "Rock concert format",
+      "significance": "Its rock concert format staged survival, domestic abuse, music as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "tootsie-2019",
+      "name": "Tootsie",
+      "year": 2019,
+      "era": "Film Adaptation",
+      "culture": "Gender roles, career struggle",
+      "innovation": "Fast transitions, modern pacing",
+      "significance": "Its fast transitions, modern pacing staged gender roles, career struggle as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "company-revival-2021",
+      "name": "Company (Revival)",
+      "year": 2021,
+      "era": "Gender Swap Revival",
+      "culture": "Modern relationships, gender flipping, millennial existentialism",
+      "innovation": "Gender-reversed casting, stylized urban set design, multimedia screens",
+      "significance": "Illustrates how gender swap revival reinterprets a classic for contemporary audiences.",
+      "showSlug": "company-2021"
+    },
+    {
+      "id": "mrs-doubtfire-2021",
+      "name": "Mrs. Doubtfire",
+      "year": 2021,
+      "era": "Film Adaptation",
+      "culture": "Family, identity, disguise",
+      "innovation": "Rapid costume changes, family-centric set",
+      "significance": "Its rapid costume changes, family-centric set staged family, identity, disguise as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "andjuliet-2022",
+      "name": "&Juliet",
+      "year": 2022,
+      "era": "Pop Remix Theatre",
+      "culture": "Shakespeare remix, pop feminism",
+      "innovation": "Mashup choreography, neon visuals",
+      "significance": "Its mashup choreography, neon visuals staged shakespeare remix, pop feminism as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "death-of-salesman-2022",
+      "name": "Death of Salesman",
+      "year": 2022,
+      "era": "Contemporary Canonical Drama Revival Era",
+      "culture": "Capitalism, race, masculinity, family failure and the American Dream",
+      "innovation": "Expressionistic sound, sparse symbolic scenery, contemporary casting recontextualization",
+      "significance": "Its expressionistic sound, sparse symbolic scenery, contemporary casting recontextualization staged capitalism, race, masculinity, family failure and the American Dream as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "funny-girl-revival-2022",
+      "name": "Funny Girl (Revival)",
+      "year": 2022,
+      "era": "Star-Driven Classic Revival Era",
+      "culture": "Female ambition, celebrity, public image, fandom and casting culture",
+      "innovation": "Traditional star-vehicle staging, refreshed choreography, social-media-fueled recasting narrative",
+      "significance": "Illustrates how star-driven classic revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "into-woods-revival-2022",
+      "name": "Into the Woods (Revival)",
+      "year": 2022,
+      "era": "Stripped-Down Storytelling / Sondheim Revival Era",
+      "culture": "Community, grief, consequences, storytelling after crisis",
+      "innovation": "Onstage orchestra, minimal scenery, actor-forward concert-to-stage design",
+      "significance": "Illustrates how stripped-down storytelling / sondheim revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": "into-the-woods-2022"
+    },
+    {
+      "id": "kimberly-akimbo-2022",
+      "name": "Kimberly Akimbo",
+      "year": 2022,
+      "era": "Contemporary",
+      "culture": "Chronic illness, coming of age",
+      "innovation": "Minimalist realism, subtle lighting",
+      "significance": "Its minimalist realism, subtle lighting staged chronic illness, coming of age as something an audience could watch, not only hear.",
+      "showSlug": "kimberly-akimbo"
+    },
+    {
+      "id": "kpop-2022",
+      "name": "KPOP the Musical",
+      "year": 2022,
+      "era": "Contemporary Global",
+      "culture": "Global K-pop explosion, Asian American identity, diaspora pressure",
+      "innovation": "Multilingual lyrics, integrated social media, high-fidelity sound",
+      "significance": "Its multilingual lyrics, integrated social media, high-fidelity sound staged global K-pop explosion, Asian American identity, diaspora pressure as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "mj-2022",
+      "name": "MJ the Musical",
+      "year": 2022,
+      "era": "Jukebox Musical",
+      "culture": "Michael Jackson legacy",
+      "innovation": "Moonwalk illusions, music layering",
+      "significance": "Its moonwalk illusions, music layering staged michael Jackson legacy as something an audience could watch, not only hear.",
+      "showSlug": "mj"
+    },
+    {
+      "id": "some-like-it-hot-revival-2022",
+      "name": "Some Like it Hot (Revival)",
+      "year": 2022,
+      "era": "Gender-Fluid Revival",
+      "culture": "Gender identity, jazz era",
+      "innovation": "Swing dancing, retro vaudeville tech",
+      "significance": "Illustrates how gender-fluid revival reinterprets a classic for contemporary audiences.",
+      "showSlug": "some-like-it-hot"
+    },
+    {
+      "id": "music-man-revival-2022",
+      "name": "The Music Man (Revival)",
+      "year": 2022,
+      "era": "Prestige Golden Age Revival Era",
+      "culture": "Americana nostalgia, community, salesmanship, post-pandemic Broadway return",
+      "innovation": "Large dance ensemble, full traditional sets, star-driven spectacle",
+      "significance": "Illustrates how prestige golden age revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "titanique-2022",
+      "name": "Titanique",
+      "year": 2022,
+      "era": "Off-Broadway Camp Jukebox Parody Era",
+      "culture": "Celebrity worship, Titanic nostalgia, queer camp, pop-diva fandom",
+      "innovation": "Cabaret-scale staging, fast costume changes, Céline Dion jukebox concert energy",
+      "significance": "Its cabaret-scale staging, fast costume changes, Céline Dion jukebox concert energy staged celebrity worship, Titanic nostalgia, queer camp, pop-diva fandom as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "back-to-future-2023",
+      "name": "Back to the Future",
+      "year": 2023,
+      "era": "Film Adaptation",
+      "culture": "Sci-fi nostalgia, generational themes",
+      "innovation": "Projected effects, LED screens, strobe lighting for time travel",
+      "significance": "Its projected effects, LED screens, strobe lighting for time travel staged sci-fi nostalgia, generational themes as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "hells-kitchen-2023",
+      "name": "Hell's Kitchen",
+      "year": 2023,
+      "era": "Contemporary R&B Theatre",
+      "culture": "Coming-of-age in NYC, Alicia Keys, female empowerment, R&B realism",
+      "innovation": "Live R&B instrumentation, multimedia visuals, immersive lighting",
+      "significance": "Its live R&B instrumentation, multimedia visuals, immersive lighting staged coming-of-age in NYC, Alicia Keys, female empowerment, R&B realism as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "once-upon-one-more-time-2023",
+      "name": "Once Upon a One More Time",
+      "year": 2023,
+      "era": "Fairy Tale Remix",
+      "culture": "Fairytale feminism, Britney Spears",
+      "innovation": "Concert-style staging, pop-driven projections",
+      "significance": "Its concert-style staging, pop-driven projections staged fairytale feminism, Britney Spears as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "parade-revival-2023",
+      "name": "Parade (Revival)",
+      "year": 2023,
+      "era": "Revival Era",
+      "culture": "Racism, justice, historical trial",
+      "innovation": "Stark minimalism, media integration",
+      "significance": "Illustrates how revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": "parade-2023"
+    },
+    {
+      "id": "shucked-2023",
+      "name": "Shucked",
+      "year": 2023,
+      "era": "Country Satire",
+      "culture": "Rural satire, food as metaphor",
+      "innovation": "Corn-themed puppetry and puns",
+      "significance": "Its corn-themed puppetry and puns staged rural satire, food as metaphor as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "sweeney-todd-revival-2023",
+      "name": "Sweeney Todd (Revival)",
+      "year": 2023,
+      "era": "Prestige Sondheim Revival Era",
+      "culture": "Revenge, class inequality, grief, moral corrosion",
+      "innovation": "Full 26-piece orchestration, industrial-scale design, heightened lighting and movement",
+      "significance": "Illustrates how prestige sondheim revival era reinterprets a classic for contemporary audiences.",
+      "showSlug": "sweeney-todd-2023"
+    },
+    {
+      "id": "benjamin-button-2024",
+      "name": "Benjamin Button",
+      "year": 2024,
+      "era": "Contemporary British Folk / Literary Adaptation Era",
+      "culture": "Time, aging, love, mortality and belonging",
+      "innovation": "Actor-musician staging, folk instrumentation, handmade theatrical transformations",
+      "significance": "Its actor-musician staging, folk instrumentation, handmade theatrical transformations staged time, aging, love, mortality and belonging as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "cabaret-revival-2024",
+      "name": "Cabaret (Revival)",
+      "year": 2024,
+      "era": "Immersive Political Revival Era",
+      "culture": "Weimar Berlin, fascism, political apathy, queer nightlife and escapism",
+      "innovation": "Theatre transformed into Kit Kat Club, in-the-round immersion, environmental sound and lighting",
+      "significance": "Demonstrates how immersive staging can intensify a classic musical's political message.",
+      "showSlug": "cabaret-1998"
+    },
+    {
+      "id": "dead-outlaw-2024",
+      "name": "Dead Outlaw",
+      "year": 2024,
+      "era": "True Crime Americana Musical Era",
+      "culture": "American outlaw mythology, death as entertainment, fame and commodification",
+      "innovation": "Onstage folk-rock band, skeletal scenic language, concert-storytelling hybrid",
+      "significance": "Represents the rise of original true-crime Americana musicals in the 2020s.",
+      "showSlug": ""
+    },
+    {
+      "id": "death-becomes-her-2024",
+      "name": "Death Becomes Her",
+      "year": 2024,
+      "era": "Camp Theatre",
+      "culture": "Vanity, satire, supernatural comedy",
+      "innovation": "Camp visuals, digital makeup effects",
+      "significance": "Its camp visuals, digital makeup effects staged vanity, satire, supernatural comedy as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "gypsy-revival-2024",
+      "name": "Gypsy (Revival)",
+      "year": 2024,
+      "era": "Cultural Reclamation / Prestige Revival Era",
+      "culture": "Race, motherhood, ambition, vaudeville history, representation in canonical roles",
+      "innovation": "Traditional Broadway scale with contemporary choreography and recontextualized casting",
+      "significance": "Recontextualizes a Broadway classic through contemporary casting and cultural interpretation.",
+      "showSlug": "gypsy-1974"
+    },
+    {
+      "id": "maybe-happy-ending-2024",
+      "name": "Maybe Happy Ending",
+      "year": 2024,
+      "era": "Contemporary Tech-Humanist Musical Era",
+      "culture": "AI companionship, obsolescence, memory, loneliness and connection",
+      "innovation": "Robotic characters, miniature/cinematic scenic transitions, lighting and automation that evoke Seoul in 2064",
+      "significance": "Reflects the growing interest in AI and technology as subjects for contemporary musicals.",
+      "showSlug": "maybe-happy-ending"
+    },
+    {
+      "id": "once-upon-mattress-revival-2024",
+      "name": "Once Upon a Mattress (Revival)",
+      "year": 2024,
+      "era": "Broadway Revival",
+      "culture": "Fairytale gender expectations, individuality, camp, female comic agency",
+      "innovation": "Physical-comedy staging, bright storybook design, star-centered performance",
+      "significance": "Illustrates how broadway revival reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "romeo-and-juliet-revival-2024",
+      "name": "Romeo & Juliet (Revival)",
+      "year": 2024,
+      "era": "Contemporary Shakespeare",
+      "culture": "A contemporary reimagining of Shakespeare's classic tragedy, tailored for Generation Z audiences with modern aesthetics and themes.",
+      "innovation": "Utilized immersive in-the-round staging, dynamic lighting designs, and integrated open-captioning for accessibility",
+      "significance": "Illustrates how contemporary shakespeare reinterprets a classic for contemporary audiences.",
+      "showSlug": ""
+    },
+    {
+      "id": "sunset-blvd-revival-2024",
+      "name": "Sunset Blvd (Revival)",
+      "year": 2024,
+      "era": "Modern Revival",
+      "culture": "A minimalist reimagining of Andrew Lloyd Webber's classic musical, highlighting themes of faded stardom and the intersection of film and theater",
+      "innovation": "Incorporated live video projections, stark monochromatic set designs, and innovative lighting techniques to blend cinematic and theatrical elements",
+      "significance": "Illustrates how modern revival reinterprets a classic for contemporary audiences.",
+      "showSlug": "sunset-boulevard-2023"
+    },
+    {
+      "id": "devil-wears-prada-2024",
+      "name": "The Devil Wears Prada",
+      "year": 2024,
+      "era": "Contemporary Film-to-Stage / Fashion Spectacle Era",
+      "culture": "Fashion labor, ambition, mentorship, workplace power, brand culture",
+      "innovation": "Runway-style lighting, fashion-forward costume design, pop-rock concert polish",
+      "significance": "Its runway-style lighting, fashion-forward costume design, pop-rock concert polish staged fashion labor, ambition, mentorship, workplace power, brand culture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "great-gatsby-2024",
+      "name": "The Great Gatsby",
+      "year": 2024,
+      "era": "Literary Adaptation",
+      "culture": "Wealth excess, longing, illusion",
+      "innovation": "Glittering visuals, jazz ambiance",
+      "significance": "Its glittering visuals, jazz ambiance staged wealth excess, longing, illusion as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "notebook-2024",
+      "name": "The Notebook",
+      "year": 2024,
+      "era": "Film Adaptation",
+      "culture": "Love and memory, aging",
+      "innovation": "Shifting time layers on stage",
+      "significance": "Its shifting time layers on stage staged love and memory, aging as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "outsiders-2024",
+      "name": "The Outsiders",
+      "year": 2024,
+      "era": "Literary Adaptation",
+      "culture": "Teen class conflict, brotherhood",
+      "innovation": "Rain effects, immersive rumble scenes",
+      "significance": "Its rain effects, immersive rumble scenes staged teen class conflict, brotherhood as something an audience could watch, not only hear.",
+      "showSlug": "the-outsiders-2024"
+    },
+    {
+      "id": "water-for-elephants-2024",
+      "name": "Water for Elephants",
+      "year": 2024,
+      "era": "Circus Theatre",
+      "culture": "Circus, trauma, found family",
+      "innovation": "Aerial acts, acrobat integration",
+      "significance": "Its aerial acts, acrobat integration staged circus, trauma, found family as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "chess-2025",
+      "name": "Chess",
+      "year": 2025,
+      "era": "Prestige Pop-Opera Revival Era",
+      "culture": "Cold War rivalry, nationalism, media, romance and geopolitics",
+      "innovation": "Concert-scale pop orchestration, video/media framing, sleek tournament staging",
+      "significance": "Its concert-scale pop orchestration, video/media framing, sleek tournament staging staged cold War rivalry, nationalism, media, romance and geopolitics as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "dorian-gray-2025",
+      "name": "Dorian Gray",
+      "year": 2025,
+      "era": "Live-Cinema / Multimedia Adaptation Era",
+      "culture": "Identity, vanity, surveillance, self-image and performance",
+      "innovation": "Live video, prerecorded doubles, camera operators onstage, cinematic editing in real time",
+      "significance": "Its live video, prerecorded doubles, camera operators onstage, cinematic editing in real time staged identity, vanity, surveillance, self-image and performance as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "good-night-and-good-luck-2025",
+      "name": "Good Night, and Good Luck",
+      "year": 2025,
+      "era": "Political Drama Revival Era",
+      "culture": "McCarthyism, journalism, free press, political intimidation",
+      "innovation": "Live camera feeds, broadcast-style video, newsroom soundscape and screen integration",
+      "significance": "Its live camera feeds, broadcast-style video, newsroom soundscape and screen integration staged mcCarthyism, journalism, free press, political intimidation as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "heathers-revival-2025",
+      "name": "Heathers (revival)",
+      "year": 2025,
+      "era": "Cult Revival / Digital-Fandom Era",
+      "culture": "Teen cruelty, violence, nostalgia, queer and online fandom",
+      "innovation": "Concert-like pop-rock energy, stylized lighting, refreshed choreography",
+      "significance": "Its concert-like pop-rock energy, stylized lighting, refreshed choreography staged teen cruelty, violence, nostalgia, queer and online fandom as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "just-in-time-2025",
+      "name": "Just in Time",
+      "year": 2025,
+      "era": "Immersive Bio-Musical / Nightclub Era",
+      "culture": "Bobby Darin, midcentury pop celebrity, mortality, nostalgia",
+      "innovation": "Circle-in-the-round nightclub staging, live band, audience proximity, concert-performance integration",
+      "significance": "Its circle-in-the-round nightclub staging, live band, audience proximity, concert-performance integration staged bobby Darin, midcentury pop celebrity, mortality, nostalgia as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "operation-mincemeat-2025",
+      "name": "Operation Mincemeat",
+      "year": 2025,
+      "era": "British Historical Satire / Ensemble Musical Era",
+      "culture": "WWII intelligence, bureaucracy, gender performance, mythmaking",
+      "innovation": "Five-actor rapid doubling, prop-driven transformations, high-speed lighting and sound cues",
+      "significance": "Its five-actor rapid doubling, prop-driven transformations, high-speed lighting and sound cues staged wWII intelligence, bureaucracy, gender performance, mythmaking as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "ragtime-2025",
+      "name": "Ragtime",
+      "year": 2025,
+      "era": "Prestige Historical Revival Era",
+      "culture": "Race, immigration, industrial wealth, American identity at the turn of the century",
+      "innovation": "Large ensemble, period spectacle, full orchestration, cinematic historical transitions",
+      "significance": "Its large ensemble, period spectacle, full orchestration, cinematic historical transitions staged race, immigration, industrial wealth, American identity at the turn of the century as something an audience could watch, not only hear.",
+      "showSlug": "ragtime"
+    },
+    {
+      "id": "smash-2025",
+      "name": "Smash",
+      "year": 2025,
+      "era": "Meta-Broadway / Screen-to-Stage Adaptation Era",
+      "culture": "Backstage ambition, celebrity, making a Broadway musical, TV nostalgia",
+      "innovation": "Fast backstage transitions, show-within-a-show spectacle, large dance production numbers",
+      "significance": "Its fast backstage transitions, show-within-a-show spectacle, large dance production numbers staged backstage ambition, celebrity, making a Broadway musical, TV nostalgia as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "picture-of-dorian-gray-2025",
+      "name": "The Picture of Dorian Gray",
+      "year": 2025,
+      "era": "Live-Cinema / Multimedia Adaptation Era",
+      "culture": "Beauty, narcissism, identity, gender performance, celebrity image culture",
+      "innovation": "One performer plays 26 roles using live cameras, prerecorded video, screens and rapid costume work",
+      "significance": "Its one performer plays 26 roles using live cameras, prerecorded video, screens and rapid costume work staged beauty, narcissism, identity, gender performance, celebrity image culture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "two-strangers-2025",
+      "name": "Two Strangers",
+      "year": 2025,
+      "era": "Contemporary Intimate Romantic Musical Era",
+      "culture": "Modern connection, migration, New York romantic comedy, chance encounters",
+      "innovation": "Small-scale cinematic transitions, actor-forward staging, contemporary pop score",
+      "significance": "Its small-scale cinematic transitions, actor-forward staging, contemporary pop score staged modern connection, migration, New York romantic comedy, chance encounters as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "writing-for-godot-2025",
+      "name": "Writing for Godot",
+      "year": 2025,
+      "era": "Celebrity Minimalist Classical Revival Era",
+      "culture": "Existential uncertainty, friendship, waiting, postwar absurdism reframed for modern audiences",
+      "innovation": "Sparse scenic design, actor-centered staging, sound and lighting used for temporal ambiguity",
+      "significance": "Its sparse scenic design, actor-centered staging, sound and lighting used for temporal ambiguity staged existential uncertainty, friendship, waiting, postwar absurdism reframed for modern audiences as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "chinese-republicans-2026",
+      "name": "Chinese Republicans",
+      "year": 2026,
+      "era": "Contemporary Asian American Political Drama Era",
+      "culture": "Asian American identity, finance, conservative politics, generational ambition and workplace power",
+      "innovation": "Projection-supported contemporary office/restaurant design, tightly controlled sound and lighting",
+      "significance": "Its projection-supported contemporary office/restaurant design, tightly controlled sound and lighting staged asian American identity, finance, conservative politics, generational ambition and workplace power as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "schmigadoon-2026",
+      "name": "Schmigadoon",
+      "year": 2026,
+      "era": "Meta-Musical / Golden Age Parody Era",
+      "culture": "Musical-theatre nostalgia, romantic conventions, genre literacy",
+      "innovation": "Large-scale homage choreography, bright period pastiche, self-aware scenic and musical quotation",
+      "significance": "Its large-scale homage choreography, bright period pastiche, self-aware scenic and musical quotation staged musical-theatre nostalgia, romantic conventions, genre literacy as something an audience could watch, not only hear.",
+      "showSlug": ""
+    },
+    {
+      "id": "lost-boys-2026",
+      "name": "The Lost Boys",
+      "year": 2026,
+      "era": "Contemporary Cult-Film / Pop-Rock Adaptation Era",
+      "culture": "1980s nostalgia, adolescence, outsider identity, vampire pop culture",
+      "innovation": "Rock-concert sound, supernatural lighting, projection and practical effects",
+      "significance": "Its rock-concert sound, supernatural lighting, projection and practical effects staged 1980s nostalgia, adolescence, outsider identity, vampire pop culture as something an audience could watch, not only hear.",
+      "showSlug": ""
+    }
+  ]
+}

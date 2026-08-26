@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+:root {
+  --house: #f6f1e8;
+  --house-2: #fffdf8;
+  --ink: #2c241c;
+  --gold: #9a7514;
+  --gold-text: #4f3c0c;
+  --gold-soft: rgba(154, 117, 20, 0.12);
+  --cream: #2c241c;
+  --burgundy: #7a1f2b;
+  --paper: #fffaf3;
+  --muted: #4a4036;
+  --line: rgba(92, 68, 40, 0.14);
+}
+
+@theme inline {
+  --color-house: var(--house);
+  --color-gold: var(--gold);
+  --color-gold-text: var(--gold-text);
+  --color-gold-soft: var(--gold-soft);
+  --color-cream: var(--cream);
+  --color-burgundy: var(--burgundy);
+  --color-ink: var(--ink);
+  --font-serif: var(--font-display);
+  --font-sans: var(--font-body);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--house);
+  color: var(--ink);
+  font-family: var(--font-body), sans-serif;
+}
+
+::selection {
+  background: var(--gold);
+  color: #fffaf3;
+}
+
+a {
+  color: inherit;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+a:focus:not(:focus-visible),
+button:focus:not(:focus-visible),
+input:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.prose-museum {
+  max-width: 46rem;
+}
+
+.prose-museum p,
+.prose-museum li {
+  color: var(--ink);
+  font-size: 0.98rem;
+  line-height: 1.65;
+  margin: 0 0 1rem;
+}
+
+.prose-museum ul {
+  margin: 0 0 1.4rem;
+  padding-left: 1.2rem;
+}
+
+.prose-museum li {
+  margin-bottom: 0.45rem;
+}
+
+.prose-museum a {
+  color: var(--gold-text);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.section-title {
+  font-family: var(--font-display), serif;
+  color: var(--gold-text);
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 2.4rem 0 0.9rem;
+}
+
+.wall-label {
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold-text);
+}
+
+.playbill-card {
+  aspect-ratio: 5 / 8;
+  background: var(--house-2);
+  border: 1px solid var(--line);
+  box-shadow: 0 14px 36px rgba(70, 50, 30, 0.08);
+}
+
+.marquee {
+  font-family: var(--font-display), serif;
+  letter-spacing: -0.03em;
+}
