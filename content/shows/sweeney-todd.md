@@ -5,6 +5,8 @@ gallery: sondheim
 slug: sweeney-todd
 credits: "1979 | Music and Lyrics by Stephen Sondheim | Book by Hugh Wheeler | Based on Christopher Bond’s 1973 play"
 revival: false
+attendedRevival: true
+attendedYear: 2023
 playbillImage: ""
 related:
   - into-the-woods

@@ -5,6 +5,8 @@ gallery: golden-age
 slug: west-side-story
 credits: "1957 | Music by Leonard Bernstein | Lyrics by Stephen Sondheim | Book by Arthur Laurents | Conceived and Choreographed by Jerome Robbins | Inspired by William Shakespeare’s Romeo and Juliet"
 revival: false
+attendedRevival: true
+attendedYear: 2020
 playbillImage: ""
 related:
   - gypsy

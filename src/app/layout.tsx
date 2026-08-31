@@ -8,6 +8,7 @@ import "./globals.css";
 const display = Cormorant_Garamond({
   subsets: ["latin"],
   weight: ["500", "600", "700"],
+  style: ["normal", "italic"],
   variable: "--font-display",
 });
 
@@ -23,7 +24,7 @@ export const metadata: Metadata = {
     template: "%s · My Broadway",
   },
   description:
-    "A digital exhibition of Broadway, American history, and cultural change, built from a research catalog and a lifetime in the theatre.",
+    "A digital exhibition of Broadway, American history, and cultural change, curated by Ciana from a research catalog and a lifetime in the theatre.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

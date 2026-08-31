@@ -13,6 +13,7 @@ type TimelineShow = {
   gallery: string;
   credits: string;
   revival: boolean;
+  attendedRevival?: boolean;
   playbillImage?: string;
 };
 
@@ -85,8 +86,7 @@ export function TimelineView({
                     style={{ background: gallery?.accent ?? "#c9a227" }}
                   />
                   <p className="wall-label">
-                    {show.year} · Gallery {gallery?.roman}
-                    {attended ? " · I was there" : ` · ${witnessLabel(show)}`}
+                    {show.year} · Gallery {gallery?.roman} · {witnessLabel(show)}
                   </p>
                   <Link href={`/shows/${show.slug}`} className="marquee mt-1 block text-3xl hover:text-gold">
                     {show.title}
@@ -121,7 +121,7 @@ export function TimelineView({
                       </Link>
                       <span className="ml-2 text-sm text-[var(--muted)]">
                         {show.year}
-                        {show.playbillImage ? " · I was there" : ""}
+                        {show.playbillImage ? ` · ${witnessLabel(show)}` : ""}
                       </span>
                     </li>
                   ))}

@@ -7,6 +7,7 @@ export function Footer() {
         <div>
           <p className="wall-label">My Broadway</p>
           <p className="mt-1 text-cream">A digital exhibition of Broadway, American history, and cultural change.</p>
+          <p className="mt-2 text-xs uppercase tracking-[0.14em]">Curated by Ciana</p>
         </div>
         <div className="flex gap-5">
           <Link href="/about" className="hover:text-cream">

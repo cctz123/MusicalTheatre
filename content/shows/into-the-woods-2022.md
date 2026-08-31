@@ -5,6 +5,8 @@ gallery: today
 slug: into-the-woods-2022
 credits: "2022 Broadway Revival | Music and Lyrics by Stephen Sondheim | Book by James Lapine | Originally Produced on Broadway in 1987 | 2022 Revival Directed by Lear deBessonet | Music Direction by Rob Berman"
 revival: true
+attendedRevival: true
+attendedYear: 2022
 playbillImage: ""
 related: []
 ---

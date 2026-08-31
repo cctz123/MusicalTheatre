@@ -5,6 +5,8 @@ gallery: mega-musicals
 slug: the-phantom-of-the-opera
 credits: "1988 | Music by Andrew Lloyd Webber | Lyrics by Charles Hart | Additional Lyrics by Richard Stilgoe | Book by Richard Stilgoe and Andrew Lloyd Webber | Based on Gaston Leroux’s 1910 novel Le Fantôme de l’Opéra | Originally Directed by Harold Prince"
 revival: false
+attendedRevival: true
+attendedYear: 2018
 playbillImage: ""
 related:
   - cats

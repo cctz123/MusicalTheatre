@@ -5,6 +5,8 @@ gallery: contemporary
 slug: ragtime
 credits: "1998 | Music by Stephen Flaherty | Lyrics by Lynn Ahrens | Book by Terrence McNally | Based on E. L. Doctorow’s 1975 novel Ragtime"
 revival: false
+attendedRevival: true
+attendedYear: 2025
 playbillImage: ""
 related:
   - show-boat

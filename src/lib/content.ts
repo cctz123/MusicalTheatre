@@ -12,6 +12,8 @@ export type Show = {
   slug: string;
   credits: string;
   revival: boolean;
+  attendedRevival?: boolean;
+  attendedYear?: number;
   playbillImage?: string;
   photos: string[];
   related: string[];
@@ -76,6 +78,8 @@ export function getAllShows(): Show[] {
         slug,
         credits: String(data.credits ?? ""),
         revival: Boolean(data.revival),
+        attendedRevival: Boolean(data.attendedRevival),
+        attendedYear: data.attendedYear ? Number(data.attendedYear) : undefined,
         playbillImage: playbillFor(slug, String(data.playbillImage ?? "")),
         photos: photosFor(slug),
         related: asStringArray(data.related),
@@ -155,19 +159,41 @@ export type ArchiveShow = {
   title: string;
   slug: string;
   images: string[];
+  year?: number;
+  revival?: boolean;
 };
 
 export function getArchive() {
   const file = join(root, "content/archive.json");
   if (!existsSync(file)) return { collage: "", extraShows: [] as ArchiveShow[] };
-  return JSON.parse(readFileSync(file, "utf8")) as {
+  const data = JSON.parse(readFileSync(file, "utf8")) as {
     collage: string;
     extraShows: ArchiveShow[];
+  };
+  return {
+    collage: data.collage,
+    extraShows: [...data.extraShows].sort(
+      (a, b) => (a.year ?? 0) - (b.year ?? 0) || a.title.localeCompare(b.title),
+    ),
   };
 }
 
 export function getShowsWithPhotos() {
-  return getAllShows().filter((show) => Boolean(show.playbillImage));
+  const seen = new Set<string>();
+  return getAllShows()
+    .filter((show) => Boolean(show.playbillImage))
+    .sort(
+      (a, b) =>
+        (a.attendedYear ?? a.year) - (b.attendedYear ?? b.year) ||
+        Number(a.revival) - Number(b.revival) ||
+        a.title.localeCompare(b.title),
+    )
+    .filter((show) => {
+      const key = show.title.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
 }
 
 export type CatalogEntry = {

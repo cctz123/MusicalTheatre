@@ -113,3 +113,62 @@ input:focus:not(:focus-visible) {
   font-family: var(--font-display), serif;
   letter-spacing: -0.03em;
 }
+
+.exhibition-title {
+  font-family: var(--font-display), serif;
+  font-weight: 500;
+  letter-spacing: -0.018em;
+  color: var(--ink);
+}
+
+.exhibition-subtitle {
+  font-family: var(--font-display), serif;
+  font-weight: 500;
+  font-style: italic;
+  letter-spacing: 0.01em;
+  color: var(--gold-text);
+}
+
+.nav-links {
+  font-family: var(--font-display), serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  font-style: italic;
+}
+
+.nav-links a {
+  transition: color 0.2s ease;
+}
+
+.site-wordmark {
+  cursor: pointer;
+  padding: 0.35rem 0.65rem 0.35rem 0.5rem;
+  margin-left: -0.5rem;
+  border-radius: 2px;
+  transition: background-color 0.2s ease;
+}
+
+.site-wordmark:hover,
+.site-wordmark:focus-visible {
+  background: var(--gold-soft);
+}
+
+.site-wordmark-title {
+  text-decoration: underline;
+  text-decoration-color: rgba(154, 117, 20, 0.4);
+  text-underline-offset: 0.24em;
+  text-decoration-thickness: 1px;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.site-wordmark:hover .site-wordmark-title,
+.site-wordmark:focus-visible .site-wordmark-title {
+  color: var(--gold-text);
+  text-decoration-color: var(--gold);
+}
+
+.site-wordmark:hover .site-wordmark-label,
+.site-wordmark:focus-visible .site-wordmark-label {
+  color: var(--gold-text);
+}

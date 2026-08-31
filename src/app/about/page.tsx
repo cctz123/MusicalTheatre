@@ -14,6 +14,7 @@ export default function AboutPage() {
     <div className="mx-auto max-w-6xl px-5 py-16">
       <p className="wall-label">Methodology</p>
       <h1 className="marquee mt-3 text-5xl">Curator’s Note</h1>
+      <p className="mt-3 text-sm uppercase tracking-[0.14em] text-gold">Ciana · curator</p>
       <p className="mt-5 max-w-3xl text-xl text-[var(--muted)]">
         Why these productions, what counts as evidence, and why the work is a museum rather
         than a book.
@@ -55,9 +56,14 @@ export default function AboutPage() {
                   className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.03]"
                 />
               </div>
-                  <p className="mt-2 text-sm text-cream">{show.title}</p>
-                  <p className="text-xs uppercase tracking-[0.14em] text-[var(--muted)]">{show.year}</p>
-              <p className="text-xs uppercase tracking-[0.14em] text-[var(--muted)]">{show.year}</p>
+              <p className="mt-2 text-sm text-cream">{show.title}</p>
+              <p className="text-xs uppercase tracking-[0.14em] text-[var(--muted)]">
+                {show.attendedRevival
+                  ? show.attendedYear
+                    ? `${show.attendedYear} · revival`
+                    : "revival"
+                  : show.year}
+              </p>
             </a>
           ))}
         </div>
@@ -68,7 +74,8 @@ export default function AboutPage() {
         <h2 className="marquee mt-2 mb-4 text-4xl">Also in the archive</h2>
         <p className="mb-8 max-w-3xl text-[var(--muted)]">
           These productions were attended too. They are not full exhibition cards, but they
-          belong to the same nights in the theatre.
+          belong to the same nights in the theatre. The year is the staging I sat through;
+          most of these photographs are from revivals.
         </p>
         <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
           {archive.extraShows.map((item) => (
@@ -82,7 +89,13 @@ export default function AboutPage() {
                   className="h-full w-full object-cover"
                 />
               </div>
-              <figcaption className="mt-2 text-sm text-[var(--muted)]">{item.title}</figcaption>
+              <figcaption className="mt-2 text-sm text-cream">{item.title}</figcaption>
+              {item.year ? (
+                <p className="text-xs uppercase tracking-[0.14em] text-[var(--muted)]">
+                  {item.year}
+                  {item.revival ? " · revival" : ""}
+                </p>
+              ) : null}
             </figure>
           ))}
         </div>

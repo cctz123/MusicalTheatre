@@ -5,6 +5,8 @@ gallery: mega-musicals
 slug: cats
 credits: "1982 | Music by Andrew Lloyd Webber | Based on T. S. Eliot’s Old Possum’s Book of Practical Cats | Additional Lyrics by Trevor Nunn and Richard Stilgoe | Originally Directed by Trevor Nunn | Choreographed by Gillian Lynne"
 revival: false
+attendedRevival: true
+attendedYear: 2016
 playbillImage: ""
 related:
   - the-phantom-of-the-opera

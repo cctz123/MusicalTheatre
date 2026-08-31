@@ -5,6 +5,8 @@ gallery: mega-musicals
 slug: les-miserables
 credits: "1987 | Music by Claude-Michel Schönberg | Lyrics by Herbert Kretzmer | Original French Text by Alain Boublil and Jean-Marc Natel | Book by Alain Boublil and Claude-Michel Schönberg | Based on Victor Hugo’s 1862 novel"
 revival: false
+attendedRevival: true
+attendedYear: 2016
 playbillImage: ""
 related: []
 ---

@@ -5,6 +5,8 @@ gallery: golden-age
 slug: carousel
 credits: "1945 | Music by Richard Rodgers | Book and Lyrics by Oscar Hammerstein II | Based on Ferenc Molnár’s play Liliom"
 revival: false
+attendedRevival: true
+attendedYear: 2018
 playbillImage: ""
 related:
   - oklahoma

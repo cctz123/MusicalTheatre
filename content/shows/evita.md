@@ -5,6 +5,8 @@ gallery: mega-musicals
 slug: evita
 credits: "1979 | Music by Andrew Lloyd Webber | Lyrics by Tim Rice | Originally Directed by Harold Prince"
 revival: false
+attendedRevival: true
+attendedYear: 2019
 playbillImage: ""
 related: []
 ---

@@ -2,26 +2,23 @@
   "collage": "/archive/playbills-collage.jpeg",
   "extraShows": [
     {
-      "title": "& Juliet",
-      "slug": "&-juliet",
-      "images": [
-        "/archive/&-juliet/01.jpeg",
-        "/archive/&-juliet/02.jpeg"
-      ]
-    },
-    {
       "title": "Aladdin",
       "slug": "aladdin",
       "images": [
-        "/archive/aladdin/01.jpg"
-      ]
+        "/archive/aladdin/01.jpg",
+        "/archive/aladdin/02.jpg"
+      ],
+      "year": 2014,
+      "revival": false
     },
     {
       "title": "An American In Paris",
       "slug": "an-american-in-paris",
       "images": [
         "/archive/an-american-in-paris/01.jpg"
-      ]
+      ],
+      "year": 2015,
+      "revival": false
     },
     {
       "title": "Anastasia",
@@ -30,31 +27,63 @@
         "/archive/anastasia/01.jpg",
         "/archive/anastasia/02.jpg",
         "/archive/anastasia/03.jpg"
-      ]
+      ],
+      "year": 2017,
+      "revival": false
+    },
+    {
+      "title": "And Juliet",
+      "slug": "and-juliet",
+      "images": [
+        "/archive/and-juliet/01.jpeg",
+        "/archive/and-juliet/02.jpeg",
+        "/archive/and-juliet/03.jpg",
+        "/archive/and-juliet/04.jpg"
+      ],
+      "year": 2022,
+      "revival": false
     },
     {
       "title": "Back To The Future",
       "slug": "back-to-the-future",
       "images": [
         "/archive/back-to-the-future/01.jpeg",
-        "/archive/back-to-the-future/02.jpeg"
-      ]
+        "/archive/back-to-the-future/02.jpeg",
+        "/archive/back-to-the-future/03.jpg"
+      ],
+      "year": 2023,
+      "revival": false
     },
     {
       "title": "Beautiful The Carole King Musical",
       "slug": "beautiful-the-carole-king-musical",
       "images": [
         "/archive/beautiful-the-carole-king-musical/01.jpeg",
-        "/archive/beautiful-the-carole-king-musical/02.jpeg"
-      ]
+        "/archive/beautiful-the-carole-king-musical/02.jpeg",
+        "/archive/beautiful-the-carole-king-musical/03.jpg"
+      ],
+      "year": 2014,
+      "revival": false
     },
     {
       "title": "Charlie And The Chocolate Factory",
       "slug": "charlie-and-the-chocolate-factory",
       "images": [
         "/archive/charlie-and-the-chocolate-factory/01.jpg",
-        "/archive/charlie-and-the-chocolate-factory/02.jpg"
-      ]
+        "/archive/charlie-and-the-chocolate-factory/02.jpg",
+        "/archive/charlie-and-the-chocolate-factory/03.jpg"
+      ],
+      "year": 2017,
+      "revival": false
+    },
+    {
+      "title": "Chess",
+      "slug": "chess",
+      "images": [
+        "/archive/chess/01.jpg"
+      ],
+      "year": 2025,
+      "revival": true
     },
     {
       "title": "Cinderella",
@@ -62,14 +91,38 @@
       "images": [
         "/archive/cinderella/01.jpeg",
         "/archive/cinderella/02.jpeg"
-      ]
+      ],
+      "year": 2013,
+      "revival": true
     },
     {
       "title": "Death Becomes Her",
       "slug": "death-becomes-her",
       "images": [
-        "/archive/death-becomes-her/01.jpeg"
-      ]
+        "/archive/death-becomes-her/01.jpeg",
+        "/archive/death-becomes-her/02.jpg",
+        "/archive/death-becomes-her/03.jpg"
+      ],
+      "year": 2024,
+      "revival": false
+    },
+    {
+      "title": "Death Of A Salesman",
+      "slug": "death-of-a-salesman",
+      "images": [
+        "/archive/death-of-a-salesman/01.jpg"
+      ],
+      "year": 2022,
+      "revival": true
+    },
+    {
+      "title": "Dorian Gray",
+      "slug": "dorian-gray",
+      "images": [
+        "/archive/dorian-gray/01.jpg"
+      ],
+      "year": 2025,
+      "revival": false
     },
     {
       "title": "Dreamgirls",
@@ -77,7 +130,9 @@
       "images": [
         "/archive/dreamgirls/01.jpeg",
         "/archive/dreamgirls/02.jpeg"
-      ]
+      ],
+      "year": 2009,
+      "revival": true
     },
     {
       "title": "Frozen",
@@ -85,34 +140,64 @@
       "images": [
         "/archive/frozen/01.jpeg",
         "/archive/frozen/02.jpeg",
-        "/archive/frozen/03.jpg"
-      ]
+        "/archive/frozen/03.jpg",
+        "/archive/frozen/04.jpg"
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "Funny Girl",
       "slug": "funny-girl",
       "images": [
         "/archive/funny-girl/01.jpeg",
-        "/archive/funny-girl/02.jpeg"
-      ]
+        "/archive/funny-girl/02.jpeg",
+        "/archive/funny-girl/03.jpg"
+      ],
+      "year": 2022,
+      "revival": true
+    },
+    {
+      "title": "Good Night And Good Luck",
+      "slug": "good-night-and-good-luck",
+      "images": [
+        "/archive/good-night-and-good-luck/01.jpg"
+      ],
+      "year": 2025,
+      "revival": false
     },
     {
       "title": "Harry Potter And The Cursed Child",
       "slug": "harry-potter-and-the-cursed-child",
       "images": [
-        "/archive/harry-potter-and-the-cursed-child/01.jpeg",
+        "/archive/harry-potter-and-the-cursed-child/01.jpg",
         "/archive/harry-potter-and-the-cursed-child/02.jpg",
         "/archive/harry-potter-and-the-cursed-child/03.jpg",
         "/archive/harry-potter-and-the-cursed-child/04.jpeg"
-      ]
+      ],
+      "year": 2018,
+      "revival": false
+    },
+    {
+      "title": "Heathers",
+      "slug": "heathers",
+      "images": [
+        "/archive/heathers/01.jpg"
+      ],
+      "year": 2025,
+      "revival": true
     },
     {
       "title": "Hells Kitchen",
       "slug": "hells-kitchen",
       "images": [
         "/archive/hells-kitchen/01.jpeg",
-        "/archive/hells-kitchen/02.jpeg"
-      ]
+        "/archive/hells-kitchen/02.jpeg",
+        "/archive/hells-kitchen/03.jpg",
+        "/archive/hells-kitchen/04.jpg"
+      ],
+      "year": 2024,
+      "revival": false
     },
     {
       "title": "Jagged Little Pill",
@@ -120,22 +205,38 @@
       "images": [
         "/archive/jagged-little-pill/01.jpeg",
         "/archive/jagged-little-pill/02.jpeg"
-      ]
+      ],
+      "year": 2019,
+      "revival": false
     },
     {
       "title": "Jersey Boys",
       "slug": "jersey-boys",
       "images": [
         "/archive/jersey-boys/01.jpeg"
-      ]
+      ],
+      "year": 2005,
+      "revival": false
+    },
+    {
+      "title": "Just in Time",
+      "slug": "just-in-time",
+      "images": [
+        "/archive/just-in-time/01.jpg"
+      ],
+      "year": 2026,
+      "revival": false
     },
     {
       "title": "K Pop",
       "slug": "k-pop",
       "images": [
         "/archive/k-pop/01.jpeg",
-        "/archive/k-pop/02.jpeg"
-      ]
+        "/archive/k-pop/02.jpeg",
+        "/archive/k-pop/03.jpg"
+      ],
+      "year": 2022,
+      "revival": false
     },
     {
       "title": "Kinky Boots",
@@ -143,15 +244,21 @@
       "images": [
         "/archive/kinky-boots/01.jpeg",
         "/archive/kinky-boots/02.jpeg",
-        "/archive/kinky-boots/03.jpeg"
-      ]
+        "/archive/kinky-boots/03.jpeg",
+        "/archive/kinky-boots/04.jpg"
+      ],
+      "year": 2013,
+      "revival": false
     },
     {
       "title": "Life Of Pi",
       "slug": "life-of-pi",
       "images": [
-        "/archive/life-of-pi/01.jpeg"
-      ]
+        "/archive/life-of-pi/01.jpeg",
+        "/archive/life-of-pi/02.jpg"
+      ],
+      "year": 2023,
+      "revival": false
     },
     {
       "title": "Little Shop Of Horrors",
@@ -160,22 +267,40 @@
         "/archive/little-shop-of-horrors/01.jpg",
         "/archive/little-shop-of-horrors/02.jpeg",
         "/archive/little-shop-of-horrors/03.jpeg"
-      ]
+      ],
+      "year": 2019,
+      "revival": true
+    },
+    {
+      "title": "Lost Boys",
+      "slug": "lost-boys",
+      "images": [
+        "/archive/lost-boys/01.jpg"
+      ],
+      "year": 2026,
+      "revival": false
     },
     {
       "title": "Macbeth",
       "slug": "macbeth",
       "images": [
-        "/archive/macbeth/01.jpg"
-      ]
+        "/archive/macbeth/01.jpg",
+        "/archive/macbeth/02.jpg"
+      ],
+      "year": 2022,
+      "revival": true
     },
     {
       "title": "Mamma Mia",
       "slug": "mamma-mia",
       "images": [
         "/archive/mamma-mia/01.jpeg",
-        "/archive/mamma-mia/02.jpeg"
-      ]
+        "/archive/mamma-mia/02.jpeg",
+        "/archive/mamma-mia/03.jpg",
+        "/archive/mamma-mia/04.jpg"
+      ],
+      "year": 2001,
+      "revival": false
     },
     {
       "title": "Mean Girls",
@@ -183,8 +308,11 @@
       "images": [
         "/archive/mean-girls/01.jpeg",
         "/archive/mean-girls/02.jpeg",
-        "/archive/mean-girls/03.jpeg"
-      ]
+        "/archive/mean-girls/03.jpeg",
+        "/archive/mean-girls/04.jpg"
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "Moulin Rouge",
@@ -192,53 +320,83 @@
       "images": [
         "/archive/moulin-rouge/01.jpeg",
         "/archive/moulin-rouge/02.jpeg",
-        "/archive/moulin-rouge/03.jpeg"
-      ]
+        "/archive/moulin-rouge/03.jpeg",
+        "/archive/moulin-rouge/04.jpg"
+      ],
+      "year": 2019,
+      "revival": false
     },
     {
       "title": "Mrs Doubtfire",
       "slug": "mrs-doubtfire",
       "images": [
         "/archive/mrs-doubtfire/01.jpeg",
-        "/archive/mrs-doubtfire/02.jpeg"
-      ]
+        "/archive/mrs-doubtfire/02.jpeg",
+        "/archive/mrs-doubtfire/03.jpg",
+        "/archive/mrs-doubtfire/04.jpg"
+      ],
+      "year": 2021,
+      "revival": false
     },
     {
       "title": "Murder Ballad",
       "slug": "murder-ballad",
       "images": [
         "/archive/murder-ballad/01.jpeg"
-      ]
+      ],
+      "year": 2013,
+      "revival": false
     },
     {
       "title": "Once Upon A Mattress",
       "slug": "once-upon-a-mattress",
       "images": [
         "/archive/once-upon-a-mattress/01.jpeg",
-        "/archive/once-upon-a-mattress/02.jpeg"
-      ]
+        "/archive/once-upon-a-mattress/02.jpeg",
+        "/archive/once-upon-a-mattress/03.jpg"
+      ],
+      "year": 2024,
+      "revival": true
     },
     {
-      "title": "Once Upon A One More Time",
-      "slug": "once-upon-a-one-more-time",
+      "title": "One More Time",
+      "slug": "one-more-time",
       "images": [
-        "/archive/once-upon-a-one-more-time/01.jpeg"
-      ]
+        "/archive/one-more-time/01.jpeg",
+        "/archive/one-more-time/02.jpg"
+      ],
+      "year": 2023,
+      "revival": false
+    },
+    {
+      "title": "Operation Mincemeat",
+      "slug": "operation-mincemeat",
+      "images": [
+        "/archive/operation-mincemeat/01.jpg"
+      ],
+      "year": 2025,
+      "revival": false
     },
     {
       "title": "Plaza Suite",
       "slug": "plaza-suite",
       "images": [
-        "/archive/plaza-suite/01.jpeg"
-      ]
+        "/archive/plaza-suite/01.jpeg",
+        "/archive/plaza-suite/02.jpg"
+      ],
+      "year": 2022,
+      "revival": true
     },
     {
       "title": "Pretty Woman",
       "slug": "pretty-woman",
       "images": [
         "/archive/pretty-woman/01.jpeg",
-        "/archive/pretty-woman/02.jpeg"
-      ]
+        "/archive/pretty-woman/02.jpeg",
+        "/archive/pretty-woman/03.jpg"
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "Rock Of Ages",
@@ -246,7 +404,9 @@
       "images": [
         "/archive/rock-of-ages/01.jpeg",
         "/archive/rock-of-ages/02.jpeg"
-      ]
+      ],
+      "year": 2009,
+      "revival": false
     },
     {
       "title": "Romeo And Juliet",
@@ -254,55 +414,99 @@
       "images": [
         "/archive/romeo-and-juliet/01.jpeg",
         "/archive/romeo-and-juliet/02.jpeg"
-      ]
+      ],
+      "year": 2024,
+      "revival": true
+    },
+    {
+      "title": "Schmigadoon",
+      "slug": "schmigadoon",
+      "images": [
+        "/archive/schmigadoon/01.jpg"
+      ],
+      "year": 2026,
+      "revival": false
     },
     {
       "title": "School Of Rock",
       "slug": "school-of-rock",
       "images": [
         "/archive/school-of-rock/01.jpg",
-        "/archive/school-of-rock/02.jpeg",
+        "/archive/school-of-rock/02.jpg",
         "/archive/school-of-rock/03.jpeg",
         "/archive/school-of-rock/04.jpeg",
-        "/archive/school-of-rock/05.jpeg"
-      ]
+        "/archive/school-of-rock/05.jpeg",
+        "/archive/school-of-rock/06.jpeg"
+      ],
+      "year": 2015,
+      "revival": false
     },
     {
       "title": "Shucked",
       "slug": "shucked",
       "images": [
         "/archive/shucked/01.jpg",
-        "/archive/shucked/02.jpeg",
-        "/archive/shucked/03.jpeg"
-      ]
+        "/archive/shucked/02.jpg",
+        "/archive/shucked/03.jpeg",
+        "/archive/shucked/04.jpeg"
+      ],
+      "year": 2023,
+      "revival": false
+    },
+    {
+      "title": "Smash",
+      "slug": "smash",
+      "images": [
+        "/archive/smash/01.jpg"
+      ],
+      "year": 2025,
+      "revival": false
+    },
+    {
+      "title": "Spelling Bee",
+      "slug": "spelling-bee",
+      "images": [
+        "/archive/spelling-bee/01.jpg"
+      ],
+      "year": 2026,
+      "revival": true
     },
     {
       "title": "Spiderman",
       "slug": "spiderman",
       "images": [
         "/archive/spiderman/01.jpg"
-      ]
+      ],
+      "year": 2011,
+      "revival": false
     },
     {
       "title": "Spongebob Squarepants",
       "slug": "spongebob-squarepants",
       "images": [
         "/archive/spongebob-squarepants/01.jpg"
-      ]
+      ],
+      "year": 2017,
+      "revival": false
     },
     {
       "title": "The Cher Show",
       "slug": "the-cher-show",
       "images": [
         "/archive/the-cher-show/01.jpeg"
-      ]
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "The Great Gatsby",
       "slug": "the-great-gatsby",
       "images": [
-        "/archive/the-great-gatsby/01.jpeg"
-      ]
+        "/archive/the-great-gatsby/01.jpg",
+        "/archive/the-great-gatsby/02.jpeg"
+      ],
+      "year": 2024,
+      "revival": false
     },
     {
       "title": "The Music Man",
@@ -310,38 +514,50 @@
       "images": [
         "/archive/the-music-man/01.jpeg",
         "/archive/the-music-man/02.jpeg",
-        "/archive/the-music-man/03.jpeg"
-      ]
+        "/archive/the-music-man/03.jpeg",
+        "/archive/the-music-man/04.jpg"
+      ],
+      "year": 2022,
+      "revival": true
     },
     {
       "title": "The Notebook",
       "slug": "the-notebook",
       "images": [
         "/archive/the-notebook/01.jpeg"
-      ]
+      ],
+      "year": 2024,
+      "revival": false
     },
     {
       "title": "The Play That Goes Wrong",
       "slug": "the-play-that-goes-wrong",
       "images": [
         "/archive/the-play-that-goes-wrong/01.jpeg"
-      ]
+      ],
+      "year": 2017,
+      "revival": false
     },
     {
       "title": "The Prom",
       "slug": "the-prom",
       "images": [
         "/archive/the-prom/01.jpg",
-        "/archive/the-prom/02.jpeg",
-        "/archive/the-prom/03.jpeg"
-      ]
+        "/archive/the-prom/02.jpg",
+        "/archive/the-prom/03.jpeg",
+        "/archive/the-prom/04.jpeg"
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "The Tina Turner Musical",
       "slug": "the-tina-turner-musical",
       "images": [
         "/archive/the-tina-turner-musical/01.jpeg"
-      ]
+      ],
+      "year": 2019,
+      "revival": false
     },
     {
       "title": "Titanic",
@@ -349,7 +565,18 @@
       "images": [
         "/archive/titanic/01.jpeg",
         "/archive/titanic/02.jpeg"
-      ]
+      ],
+      "year": 1997,
+      "revival": false
+    },
+    {
+      "title": "Titanique",
+      "slug": "titanique",
+      "images": [
+        "/archive/titanique/01.jpg"
+      ],
+      "year": 2022,
+      "revival": false
     },
     {
       "title": "To Kill A Mockingbird",
@@ -357,29 +584,57 @@
       "images": [
         "/archive/to-kill-a-mockingbird/01.jpeg",
         "/archive/to-kill-a-mockingbird/02.jpeg"
-      ]
+      ],
+      "year": 2018,
+      "revival": false
     },
     {
       "title": "Tootsie",
       "slug": "tootsie",
       "images": [
         "/archive/tootsie/01.jpeg"
-      ]
+      ],
+      "year": 2019,
+      "revival": false
+    },
+    {
+      "title": "Two Strangers",
+      "slug": "two-strangers",
+      "images": [
+        "/archive/two-strangers/01.jpg",
+        "/archive/two-strangers/02.jpg"
+      ],
+      "year": 2025,
+      "revival": false
+    },
+    {
+      "title": "Waiting For Godot",
+      "slug": "waiting-for-godot",
+      "images": [
+        "/archive/waiting-for-godot/01.jpg"
+      ],
+      "year": 2025,
+      "revival": true
     },
     {
       "title": "Waitress",
       "slug": "waitress",
       "images": [
-        "/archive/waitress/01.jpeg",
-        "/archive/waitress/02.jpeg"
-      ]
+        "/archive/waitress/01.jpg",
+        "/archive/waitress/02.jpeg",
+        "/archive/waitress/03.jpeg"
+      ],
+      "year": 2016,
+      "revival": false
     },
     {
       "title": "Water For Elephants",
       "slug": "water-for-elephants",
       "images": [
         "/archive/water-for-elephants/01.jpeg"
-      ]
+      ],
+      "year": 2024,
+      "revival": false
     }
   ]
 }

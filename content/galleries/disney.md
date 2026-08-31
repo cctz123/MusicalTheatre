@@ -9,4 +9,4 @@ This period also witnessed extraordinary advances in theatrical design. Producti
 
 ## Historical Themes
 
-As you explore Gallery V, consider how Broadway entered the twenty-first century: ● The revitalization of Broadway and Times Square during the 1990s ● Disney's role in expanding Broadway's audience and commercial success ● The adaptation of animated films into live theatrical productions ● Innovations in puppetry, costume design, scenic engineering, and visual storytelling ● The growing influence of global tourism on Broadway ● The balance between commercial entertainment and artistic creativity
+As you explore Gallery VI, consider how Broadway entered the twenty-first century: ● The revitalization of Broadway and Times Square during the 1990s ● Disney's role in expanding Broadway's audience and commercial success ● The adaptation of animated films into live theatrical productions ● Innovations in puppetry, costume design, scenic engineering, and visual storytelling ● The growing influence of global tourism on Broadway ● The balance between commercial entertainment and artistic creativity

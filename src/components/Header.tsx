@@ -13,11 +13,16 @@ export function Header({
   return (
     <header className="sticky top-0 z-40 border-b border-[rgba(92,68,40,0.12)] bg-[rgba(246,241,232,0.92)] backdrop-blur-md">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-4">
-        <Link href="/" className="group">
-          <p className="wall-label">A Living History</p>
-          <p className="marquee text-xl text-cream group-hover:text-gold">My Broadway</p>
+        <Link
+          href="/"
+          className="site-wordmark group block shrink-0"
+          aria-label="My Broadway — return to welcome hall"
+          title="Return to welcome hall"
+        >
+          <p className="wall-label site-wordmark-label transition">A Living History</p>
+          <p className="marquee site-wordmark-title text-xl leading-tight text-cream">My Broadway</p>
         </Link>
-        <nav className="hidden items-center gap-6 text-sm text-[var(--muted)] md:flex">
+        <nav className="nav-links hidden items-center gap-6 text-[var(--muted)] md:flex">
           <Link href="/galleries" className="hover:text-cream">
             Galleries
           </Link>
@@ -28,7 +33,7 @@ export function Header({
             Catalog
           </Link>
           <Link href="/themes" className="hover:text-cream">
-            Living History
+            Themes
           </Link>
           <Link href="/about" className="hover:text-cream">
             Curator’s Note
@@ -39,7 +44,7 @@ export function Header({
         </nav>
         <Search shows={shows} galleries={galleries} catalog={catalog} />
       </div>
-      <nav className="flex gap-4 overflow-x-auto px-5 pb-3 text-xs text-[var(--muted)] md:hidden">
+      <nav className="nav-links flex gap-5 overflow-x-auto px-5 pb-3 text-[var(--muted)] md:hidden">
         <Link href="/galleries">Galleries</Link>
         <Link href="/timeline">Timeline</Link>
         <Link href="/catalog">Catalog</Link>

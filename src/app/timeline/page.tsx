@@ -12,19 +12,22 @@ export default function TimelinePage() {
       <p className="mt-4 max-w-2xl text-[var(--muted)]">
         Chronology is an index. Theme and Innovation show conversations that skip decades:
         race and American identity, or the path from book musical to digital scenery.
-        Gold rings mark nights I attended.
+        Gold rings mark nights I attended, including later revivals of earlier works.
       </p>
       <div className="mt-12">
         <TimelineView
-          shows={getAllShows().map(({ title, year, slug, gallery, credits, revival, playbillImage }) => ({
-            title,
-            year,
-            slug,
-            gallery,
-            credits,
-            revival,
-            playbillImage,
-          }))}
+          shows={getAllShows().map(
+            ({ title, year, slug, gallery, credits, revival, attendedRevival, playbillImage }) => ({
+              title,
+              year,
+              slug,
+              gallery,
+              credits,
+              revival,
+              attendedRevival,
+              playbillImage,
+            }),
+          )}
           galleries={galleries}
         />
       </div>

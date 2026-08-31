@@ -5,6 +5,8 @@ gallery: golden-age
 slug: gypsy
 credits: "1959 | Music by Jule Styne | Lyrics by Stephen Sondheim | Book by Arthur Laurents | Suggested by the memoirs of Gypsy Rose Lee"
 revival: false
+attendedRevival: true
+attendedYear: 2025
 playbillImage: ""
 related: []
 ---

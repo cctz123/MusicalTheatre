@@ -5,6 +5,8 @@ gallery: today
 slug: gypsy-1974
 credits: "Landmark Broadway Revivals: 1974, 1989, 2003, 2008 & 2024 | Music by Jule Styne | Lyrics by Stephen Sondheim | Book by Arthur Laurents | Original Broadway Production: 1959"
 revival: true
+attendedRevival: true
+attendedYear: 2025
 playbillImage: ""
 related:
   - gypsy

@@ -5,6 +5,8 @@ gallery: today
 slug: sunset-boulevard-2023
 credits: "2023 West End / 2024 Broadway Revival | Music by Andrew Lloyd Webber | Book and Lyrics by Don Black and Christopher Hampton | Based on Billy Wilder’s 1950 Film | Original Musical Production: 1993 West End / 1994 Broadway | Revival Directed by Jamie Lloyd | Starring Nicole Scherzinger and Tom Francis"
 revival: true
+attendedRevival: true
+attendedYear: 2025
 playbillImage: ""
 related: []
 ---

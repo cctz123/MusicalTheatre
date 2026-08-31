@@ -1,6 +1,7 @@
 export type WitnessShow = {
   playbillImage?: string;
   revival: boolean;
+  attendedRevival?: boolean;
 };
 
 export function attendedShow(show: Pick<WitnessShow, "playbillImage">) {
@@ -8,12 +9,18 @@ export function attendedShow(show: Pick<WitnessShow, "playbillImage">) {
 }
 
 export function witnessLabel(show: WitnessShow) {
-  if (attendedShow(show)) return "I was there";
-  return show.revival ? "Researched revival" : "Researched original";
+  if (attendedShow(show)) {
+    if (show.attendedRevival) return "Attended Revival";
+    return "Attended Original";
+  }
+  return show.revival ? "Researched Revival" : "Researched Original";
 }
 
 export function witnessCaption(show: WitnessShow) {
   if (attendedShow(show)) {
+    if (show.attendedRevival) {
+      return "Personal photo from a later revival I attended, not from the original production.";
+    }
     return "Personal photo from the night at the theatre.";
   }
   if (show.revival) {

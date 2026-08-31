@@ -5,6 +5,7 @@ gallery: golden-age
 slug: the-sound-of-music
 credits: "1959 | Music by Richard Rodgers | Lyrics by Oscar Hammerstein II | Book by Howard Lindsay and Russel Crouse | Based on Maria von Trapp’s memoir The Story of the Trapp Family Singers"
 revival: false
+attendedRevival: true
 playbillImage: ""
 related: []
 ---

@@ -45,9 +45,9 @@ export default async function GalleryPage({ params }: { params: Promise<{ slug: 
           <p className="wall-label">Featured exhibition cards</p>
           <h2 className="marquee mt-2 mb-3 text-4xl">{gallery.shows.length} productions</h2>
           <p className="mb-8 max-w-2xl text-sm text-[var(--muted)]">
-            Personal Playbills mark nights I attended. Exhibition posters mark original productions
-            I did not see, or revivals with no photo in the archive. Official Playbill covers are
-            not used.
+            Personal Playbills mark nights I attended. “Attended Revival” means the photograph is
+            from a later staging, not the original production on the card. Exhibition posters mark
+            works I did not see. Official Playbill covers are not used.
           </p>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {gallery.shows.map((show) => (

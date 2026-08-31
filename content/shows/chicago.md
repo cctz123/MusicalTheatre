@@ -5,6 +5,8 @@ gallery: grows-up
 slug: chicago
 credits: "1975 | Music by John Kander | Lyrics by Fred Ebb | Book by Fred Ebb and Bob Fosse | Based on the play Chicago by Maurine Dallas Watkins"
 revival: false
+attendedRevival: true
+attendedYear: 2019
 playbillImage: ""
 related: []
 ---

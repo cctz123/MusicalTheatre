@@ -5,6 +5,8 @@ gallery: today
 slug: sweeney-todd-2023
 credits: "2023 Broadway Revival | Music and Lyrics by Stephen Sondheim | Book by Hugh Wheeler | From an Adaptation by Christopher Bond | Original Broadway Production: 1979 | Revival Directed by Thomas Kail | Choreographed by Steven Hoggett | Starring Josh Groban and Annaleigh Ashford"
 revival: true
+attendedRevival: true
+attendedYear: 2023
 playbillImage: ""
 related:
   - sweeney-todd

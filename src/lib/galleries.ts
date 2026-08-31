@@ -86,8 +86,8 @@ export const galleries: GalleryMeta[] = [
   {
     slug: "contemporary",
     roman: "VII",
-    title: "The Contemporary Renaissance",
-    subtitle: "New Voices, New Forms",
+    title: "New Voices, New Forms",
+    subtitle: "Social Issues, Style, and Representation",
     years: "1995–2010",
     quote: "Broadway no longer reflected a single America—it reflected many Americas.",
     summary:
@@ -124,7 +124,7 @@ export const galleries: GalleryMeta[] = [
     roman: "X",
     title: "Broadway as Living History",
     subtitle: "How Musicals Tell the Story of America",
-    years: "Themes",
+    years: "Five themes",
     quote: "A history textbook can tell us what happened. A musical can show us what a generation feared, celebrated, or imagined could be different.",
     summary:
       "Rather than focusing on individual productions, this gallery explores Broadway itself—as a record of American arguments about identity, power, and belonging.",

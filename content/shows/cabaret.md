@@ -5,6 +5,8 @@ gallery: grows-up
 slug: cabaret
 credits: "1966 | Music by John Kander | Lyrics by Fred Ebb | Book by Joe Masteroff | Based on John Van Druten’s I Am a Camera and Christopher Isherwood’s The Berlin Stories"
 revival: false
+attendedRevival: true
+attendedYear: 2024
 playbillImage: ""
 related: []
 ---

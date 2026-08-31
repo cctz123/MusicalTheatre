@@ -23,15 +23,15 @@ A title can be commercially huge and still thin as evidence. A title can be hist
 
 ## What “I was there” means
 
-Personal photographs mark nights I attended. Exhibition posters mark original productions I did not see, or revivals for which no Playbill from my archive survives. Official Playbill covers and production stills are not downloaded. The poster is an original object of the museum, not a missing file.
+Personal photographs mark nights I attended. “Attended Original” means I experienced the production the card is about. “Attended Revival” means the card is the original work, and the photograph is from a later staging I actually saw. Exhibition posters mark productions I did not see, or revivals for which no Playbill from my archive survives—those cards are Researched Original or Researched Revival. Official Playbill covers and production stills are not downloaded. The poster is an original object of the museum, not a missing file.
 
-That split is part of the claim. Some Broadway history I inherited through research, recordings, and revivals. Some of it I walked into as an audience member. The two histories run at the same time.
+That split is part of the claim. Some Broadway history I inherited through research, recordings, and revivals. Some of it I walked into as an audience member. The two histories run at the same time. “I was there” remains the name of the personal archive; the four labels above are how each exhibition card is classified.
 
 ## Why a museum, not a book?
 
-A book would flatten the material into one path. A database would flatten it into rows. Exhibition architecture lets a visitor move three ways through the same evidence: chronologically through the galleries, thematically through Living History, and at scale through the catalog. That is closer to how the history actually works. Musicals do not arrive in a single order of meaning.
+A book would flatten the material into one path. A database would flatten it into rows. Exhibition architecture lets a visitor move three ways through the same evidence: chronologically through the galleries, thematically through Gallery X, and at scale through the catalog. That is closer to how the history actually works. Musicals do not arrive in a single order of meaning.
 
-The museum metaphor is also a research method. Wall labels, rooms, and cards force a choice: what belongs beside what, and why. Curation is the interpretation.
+The museum metaphor is also a research method. Wall labels, galleries, and cards force a choice: what belongs beside what, and why. Curation is the interpretation.
 
 ## How the research was done
 

@@ -5,6 +5,8 @@ gallery: today
 slug: chicago-1996
 credits: "1996 Broadway Revival | Music by John Kander | Lyrics by Fred Ebb | Book by Fred Ebb and Bob Fosse | Original Broadway Production: 1975 | Revival Directed by Walter Bobbie | Choreographed “in the Style of Bob Fosse” by Ann Reinking"
 revival: true
+attendedRevival: true
+attendedYear: 2019
 playbillImage: ""
 related: []
 ---

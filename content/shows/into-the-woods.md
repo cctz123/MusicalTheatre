@@ -5,6 +5,8 @@ gallery: sondheim
 slug: into-the-woods
 credits: "1987 | Music and Lyrics by Stephen Sondheim | Book by James Lapine | Inspired by the fairy tales of the Brothers Grimm and Charles Perrault"
 revival: false
+attendedRevival: true
+attendedYear: 2022
 playbillImage: ""
 related:
   - wicked

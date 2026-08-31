@@ -51,14 +51,15 @@ export default async function ThemePage({ params }: { params: Promise<{ slug: st
           </div>
         </section>
       ) : null}
-      <div className="mt-16 flex flex-wrap gap-3">
+      <div className="mt-16 grid gap-3 sm:grid-cols-2">
         {others.map((item) => (
           <Link
             key={item.slug}
             href={`/themes/${item.slug}`}
-            className="rounded-full border border-[rgba(92,68,40,0.16)] px-4 py-2 text-sm text-[var(--muted)] hover:text-cream"
+            className="border border-[rgba(92,68,40,0.14)] border-l-[3px] border-l-gold bg-white px-5 py-4 hover:border-gold"
           >
-            {item.title}
+            <p className="marquee text-xl font-semibold leading-tight">{item.title}</p>
+            <p className="mt-1 text-sm text-[var(--muted)]">{item.question}</p>
           </Link>
         ))}
       </div>

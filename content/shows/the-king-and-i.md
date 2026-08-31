@@ -5,6 +5,8 @@ gallery: golden-age
 slug: the-king-and-i
 credits: "1951 | Music by Richard Rodgers | Book and Lyrics by Oscar Hammerstein II | Based on Margaret Landon’s novel Anna and the King of Siam, inspired by the memoirs of Anna Leonowens"
 revival: false
+attendedRevival: true
+attendedYear: 2015
 playbillImage: ""
 related:
   - south-pacific

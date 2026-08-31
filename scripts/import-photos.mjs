@@ -1,4 +1,5 @@
-import { copyFileSync, mkdirSync, readdirSync, rmSync, statSync, writeFileSync } from "node:fs";
+import { execFileSync } from "node:child_process";
+import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
 import { basename, extname, join } from "node:path";
 
 const root = process.cwd();
@@ -30,26 +31,62 @@ const SLUGS = {
   six: "six",
   mj: "mj",
   "mj the musical": "mj",
-  chicago: "chicago-1996",
+  chicago: "chicago",
   "come from away": "come-from-away",
-  company: "company-2021",
+  company: "company",
   hadestown: "hadestown",
+  "hades town": "hadestown",
   "hello dolly": "hello-dolly",
-  "into the woods": "into-the-woods-2022",
+  "into the woods": "into-the-woods",
   "kimberly akimbo": "kimberly-akimbo",
   matilda: "matilda",
   parade: "parade-2023",
   "some like it hot": "some-like-it-hot",
-  "sunset blvd": "sunset-boulevard-2023",
-  "sunset boulevard": "sunset-boulevard-2023",
-  "sweeny todd": "sweeney-todd-2023",
-  "sweeney todd": "sweeney-todd-2023",
+  "sunset blvd": "sunset-boulevard",
+  "sunset boulevard": "sunset-boulevard",
+  "sweeny todd": "sweeney-todd",
+  "sweeney todd": "sweeney-todd",
   "the book of mormon": "the-book-of-mormon",
+  "the book of morman": "the-book-of-mormon",
   "the outsiders": "the-outsiders-2024",
   "the outsiderrs": "the-outsiders-2024",
+  "maybe happy ending": "maybe-happy-ending",
+  gypsy: "gypsy",
+  ragtime: "ragtime",
 };
 
-const IMAGE_EXT = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
+const ALSO_SLUGS = {
+  gypsy: ["gypsy-1974"],
+  chicago: ["chicago-1996"],
+  cabaret: ["cabaret-1998"],
+  company: ["company-2021"],
+  "into-the-woods": ["into-the-woods-2022"],
+  "sunset-boulevard": ["sunset-boulevard-2023"],
+  "sweeney-todd": ["sweeney-todd-2023"],
+};
+
+const KEY_ALIASES = {
+  "beautiful the carol king musical": "beautiful the carole king musical",
+  "k pop musical": "k pop",
+  "once upon a one more time": "one more time",
+  "arthur millers death of a saleman": "death of a salesman",
+  "operation micemeat": "operation mincemeat",
+  cabret: "cabaret",
+  "cabaret 2024": "cabaret",
+  "harry porter": "harry potter and the cursed child",
+  "lion king": "the lion king",
+};
+
+const PRIMARY_BY_KEY = {
+  "harry potter and the cursed child": "Harry Porter.JPG",
+  "into the woods": "Into the Woods 2.HEIC",
+  "the lion king": "Lion king.JPG",
+  mj: "MJ 2.HEIC",
+  "school of rock": "School of Rock 2.HEIC",
+  smash: "Smash 2.HEIC",
+};
+
+const IMAGE_EXT = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".heic"]);
 
 function walk(dir) {
   const files = [];
@@ -67,14 +104,45 @@ function keyFromName(filename) {
   name = name.replace(/\.jpe?g$/i, "");
   name = name.replace(/\s*\([^)]*\)/g, " ");
   name = name.replace(/golden age.*$/i, " ");
-  name = name.replace(/\s+\d+\s*$/g, " ");
   name = name.replace(/['’]/g, "");
-  name = name.toLowerCase().replace(/[^a-z0-9&]+/g, " ").trim();
-  return name;
+  name = name.replace(/&/g, " and ");
+  name = name.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  name = name.replace(/\s+\d+$/g, "").trim();
+  name = name.replace(/(\D)\d+$/g, "$1").trim();
+  return KEY_ALIASES[name] ?? name;
 }
 
 function prettyTitle(key) {
-  return key.replace(/\b\w/g, (c) => c.toUpperCase()).replace("&", "&");
+  return key.replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+function webExt(src) {
+  return extname(src).toLowerCase() === ".heic" ? ".jpg" : extname(src).toLowerCase();
+}
+
+function copyImage(src, dest) {
+  if (extname(src).toLowerCase() === ".heic") {
+    execFileSync(
+      "sips",
+      ["-s", "format", "jpeg", "-s", "formatOptions", "80", src, "--out", dest],
+      { stdio: "pipe" },
+    );
+    return;
+  }
+  copyFileSync(src, dest);
+}
+
+function sortFilesWithPrimary(files, key) {
+  const preferred = PRIMARY_BY_KEY[key];
+  if (!preferred) {
+    return [...files].sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  }
+  return [...files].sort((a, b) => {
+    const aPreferred = basename(a).toLowerCase() === preferred.toLowerCase();
+    const bPreferred = basename(b).toLowerCase() === preferred.toLowerCase();
+    if (aPreferred !== bPreferred) return aPreferred ? -1 : 1;
+    return a.localeCompare(b, undefined, { numeric: true });
+  });
 }
 
 rmSync(playbillDir, { recursive: true, force: true });
@@ -103,8 +171,15 @@ for (const file of walk(sourceRoot)) {
   if (!IMAGE_EXT.has(ext)) continue;
   const base = basename(file);
   if (/^img_/i.test(base)) continue;
-  if (/^playbills\./i.test(base)) {
+  if (/^playbill collection\./i.test(base)) {
     playbillsCollage = file;
+    continue;
+  }
+  if (/^playbills\./i.test(base) && !playbillsCollage) {
+    playbillsCollage = file;
+    continue;
+  }
+  if (/^playbills\./i.test(base)) {
     continue;
   }
   const key = keyFromName(base);
@@ -121,34 +196,58 @@ for (const file of walk(sourceRoot)) {
 
 const matched = [];
 for (const [slug, files] of [...bySlug.entries()].sort()) {
-  files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  const key = [...SLUGS.entries()].find(([, value]) => value === slug)?.[0] ?? slug;
+  const ordered = sortFilesWithPrimary(files, key);
   const destDir = join(photosDir, slug);
   mkdirSync(destDir, { recursive: true });
-  files.forEach((file, index) => {
-    const ext = extname(file).toLowerCase();
-    copyFileSync(file, join(destDir, `${String(index + 1).padStart(2, "0")}${ext}`));
-    if (index === 0) copyFileSync(file, join(playbillDir, `${slug}${ext}`));
+  ordered.forEach((file, index) => {
+    const ext = webExt(file);
+    const photoDest = join(destDir, `${String(index + 1).padStart(2, "0")}${ext}`);
+    copyImage(file, photoDest);
+    if (index === 0) copyImage(file, join(playbillDir, `${slug}${ext}`));
   });
-  matched.push({ slug, count: files.length });
+  matched.push({ slug, count: ordered.length });
+  for (const extraSlug of ALSO_SLUGS[slug] ?? []) {
+    const extraDir = join(photosDir, extraSlug);
+    mkdirSync(extraDir, { recursive: true });
+    ordered.forEach((file, index) => {
+      const ext = webExt(file);
+      copyImage(file, join(extraDir, `${String(index + 1).padStart(2, "0")}${ext}`));
+      if (index === 0) copyImage(file, join(playbillDir, `${extraSlug}${ext}`));
+    });
+    matched.push({ slug: extraSlug, count: ordered.length });
+  }
 }
+
+const archiveJson = join(root, "content/archive.json");
+const previousArchive = existsSync(archiveJson)
+  ? JSON.parse(readFileSync(archiveJson, "utf8"))
+  : { extraShows: [] };
+const previousMeta = new Map(
+  (previousArchive.extraShows ?? []).map((item) => [
+    item.slug,
+    { year: item.year, revival: item.revival },
+  ]),
+);
 
 const archive = [];
 for (const [key, files] of [...archiveGroups.entries()].sort()) {
-  files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  const ordered = sortFilesWithPrimary(files, key);
   const folder = key.replace(/\s+/g, "-");
   const destDir = join(archiveDir, folder);
   mkdirSync(destDir, { recursive: true });
-  const images = files.map((file, index) => {
-    const ext = extname(file).toLowerCase();
+  const images = ordered.map((file, index) => {
+    const ext = webExt(file);
     const name = `${String(index + 1).padStart(2, "0")}${ext}`;
-    copyFileSync(file, join(destDir, name));
+    copyImage(file, join(destDir, name));
     return `/archive/${folder}/${name}`;
   });
-  archive.push({ title: prettyTitle(key), slug: folder, images });
+  const meta = previousMeta.get(folder) ?? {};
+  archive.push({ title: prettyTitle(key), slug: folder, images, ...meta });
 }
 
 if (playbillsCollage) {
-  copyFileSync(playbillsCollage, join(archiveDir, "playbills-collage.jpeg"));
+  copyImage(playbillsCollage, join(archiveDir, "playbills-collage.jpeg"));
 }
 
 writeFileSync(

@@ -5,6 +5,8 @@ gallery: golden-age
 slug: my-fair-lady
 credits: "1956 | Music by Frederick Loewe | Book and Lyrics by Alan Jay Lerner | Based on George Bernard Shaw’s Pygmalion"
 revival: false
+attendedRevival: true
+attendedYear: 2018
 playbillImage: ""
 related: []
 ---

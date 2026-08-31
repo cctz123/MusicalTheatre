@@ -9,6 +9,12 @@ Between 1960 and 1975, Broadway underwent one of the most significant periods of
 
 ## Historical Themes
 
-As you explore Gallery III, consider how these productions reflect a changing nation: ● The Civil Rights Movement and changing conversations about race and equality ● The influence of the Vietnam War, political unrest, and youth counterculture ● The rise of psychological realism and morally complex protagonists ● The emergence of the concept musical, where ideas became as important as plot ● The growing influence of director-choreographers as creative visionaries
+As you explore Gallery III, consider how these productions reflect a changing nation:
 
-● The incorporation of rock, folk, jazz, and contemporary popular music into Broadway scores ● Broadway's increasing willingness to challenge audiences rather than simply entertain them
+- The Civil Rights Movement and changing conversations about race and equality
+- The influence of the Vietnam War, political unrest, and youth counterculture
+- The rise of psychological realism and morally complex protagonists
+- The emergence of the concept musical, where ideas became as important as plot
+- The growing influence of director-choreographers as creative visionaries
+- The incorporation of rock, folk, jazz, and contemporary popular music into Broadway scores
+- Broadway's increasing willingness to challenge audiences rather than simply entertain them

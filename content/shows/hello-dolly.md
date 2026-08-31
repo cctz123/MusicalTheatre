@@ -5,6 +5,8 @@ gallery: grows-up
 slug: hello-dolly
 credits: "1964 | Music and Lyrics by Jerry Herman | Book by Michael Stewart | Based on Thornton Wilder’s The Matchmaker"
 revival: false
+attendedRevival: true
+attendedYear: 2017
 playbillImage: ""
 related: []
 ---

@@ -5,6 +5,8 @@ gallery: grows-up
 slug: company
 credits: "1970 | Music and Lyrics by Stephen Sondheim | Book by George Furth"
 revival: false
+attendedRevival: true
+attendedYear: 2022
 playbillImage: ""
 related:
   - follies

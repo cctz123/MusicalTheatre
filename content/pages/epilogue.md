@@ -15,3 +15,5 @@ I did not become someone who studies culture *instead* of someone who loves musi
 That is why this exhibition exists. Not to prove that I have seen a lot of theatre. The photographs already do that work. It exists because the girl in those pictures grew into someone who could not look at a musical without also looking at the country that made it—and because Broadway, unlike a finished textbook, is still rewriting the next chapter in public.
 
 The conversation is unfinished. I am still in it.
+
+— Ciana

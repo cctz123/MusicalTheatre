@@ -5,6 +5,8 @@ gallery: today
 slug: cabaret-1998
 credits: "1998 / 2014 / 2024 Broadway Revivals | Music by John Kander | Lyrics by Fred Ebb | Book by Joe Masteroff | Original Broadway Production: 1966 | 1998 & 2014 Revivals Directed by Sam Mendes | 2024 Revival Directed by Rebecca Frecknall"
 revival: true
+attendedRevival: true
+attendedYear: 2024
 playbillImage: ""
 related: []
 ---

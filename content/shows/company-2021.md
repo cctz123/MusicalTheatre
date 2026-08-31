@@ -5,6 +5,8 @@ gallery: today
 slug: company-2021
 credits: "2021 Broadway Revival | Music and Lyrics by Stephen Sondheim | Book by George Furth | Originally Produced on Broadway in 1970 | Revival Directed by Marianne Elliott | Choreographed by Liam Steel"
 revival: true
+attendedRevival: true
+attendedYear: 2022
 playbillImage: ""
 related:
   - company

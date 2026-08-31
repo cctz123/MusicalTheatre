@@ -5,6 +5,8 @@ gallery: mega-musicals
 slug: sunset-boulevard
 credits: "1994 | Music by Andrew Lloyd Webber | Book and Lyrics by Don Black and Christopher Hampton | Based on Billy Wilder’s 1950 film Sunset Boulevard"
 revival: false
+attendedRevival: true
+attendedYear: 2025
 playbillImage: ""
 related: []
 ---
