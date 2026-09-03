@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { FromHistoryToAction } from "@/components/FromHistoryToAction";
 import { GalleryPager } from "@/components/GalleryPager";
 import { getAllThemes, getGalleryContent } from "@/lib/content";
 import { Markdown } from "@/lib/markdown";
@@ -107,6 +108,8 @@ export default function ThemesPage() {
             <Markdown content={section.body} />
           </GallerySection>
         ))}
+
+        <FromHistoryToAction />
 
         <GalleryPager slug="living-history" />
       </section>
